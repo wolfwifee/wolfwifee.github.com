@@ -40,17 +40,6 @@ date: 2016-04-11
 
 <p style="margin-bottom:70px"></p>
 
-红灯停，绿灯行，黄灯通常也是应该停的。比较难处理的情况是在接近路口的时候绿灯转成了黄灯，尤其对于新手来说。闯过去吧，在某些情况下可能就悲剧的闯红灯了；停住吧，某些时候就给自己搞了个十分心塞的急刹，万一后车跟的比较近，还可能被追尾。
-
-关于黄灯，加州驾驶指导手册上时这么说的，其他州应该也差不多是这个意思：
-<blockquote>A yellow traffic signal light means “CAUTION.” The red traffic signal light is about to appear. When you see the yellow traffic signal light, stop if you can do so safely. If you cannot stop safely, cross the intersection cautiously.</blockquote>
-
-<p style="margin-bottom:70px"></p>
-
-这也就是说，我们平日里说的闯红灯是指在红灯的时候冲入路口，而黄灯的时候是可以进入十字路口的，之后就算交通灯转红了也不算违章。
-
-<p style="margin-bottom:70px"></p>
-
 <span style="color:#2e8b57">**那如果违规了，是不是一定会收到罚单？**</span><br>
 这个就真不好说了，万一系统的判断规则有漏洞呢？万一车牌没照清楚呢？万一审查视频的员工工作量太大眼花了呢？这种情况也就只能耐心等待了，如果两个月了都还没有收到罚单邮件，应该就是没事了。
 
