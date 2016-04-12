@@ -54,8 +54,7 @@ date: 2016-04-11
 
 最后，啰嗦一下美国的交规吧。希望大家安全驾驶，为自己，为车里的乘客，也为与你共享道路的其他人的安全负责。
 
-<span style="color:#2e8b57">**红灯停，绿灯行</span><br>
-黄灯通常也是应该停的。关于黄灯，在加州驾驶指导手册上时这么说的，其他州应该也差不多是这样：
+<span style="color:#2e8b57">**红灯停，绿灯行，黄灯通常也该停**</span>。关于黄灯，在加州驾驶指导手册上时这么说的，其他州应该也差不多是这样：
 <blockquote>A yellow traffic signal light means “CAUTION.” The red traffic signal light is about to appear. When you see the yellow traffic signal light, stop if you can do so safely. If you cannot stop safely, cross the intersection cautiously.</blockquote>
 
 大伙可以这么理解，**看到红灯是一定要停住的**。即便是红灯右转，也是必须要先停在白线前，确认安全后才能继续右转。我们平日里说的闯红灯（Red Light Violation）是指在红灯的时候冲入路口，红灯右转如果不停，也算闯红灯。
