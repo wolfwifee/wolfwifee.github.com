@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在美国过路口被拍照不一定会吃罚单。什么是photoenforced？
-description: "有些路口设置有photoenforced的标志，这表示此路口安装有交通监控系统，当车辆进入它的监控范围，它会自动分析车辆行驶是否违规，或者是否有可能要违规，从而触发拍摄照片和视频的开关。但是，触发拍摄机制，并不意味着一定是交通违章了，也不表示一定会吃到罚单，因为稍后还需要人工审查是否确存在违规驾驶行为。"
+description: "有些路口设置有photoenforced的标志，表示此路口安装有交通监控系统，当车辆进入它的监控范围，它会自动分析车辆行驶是否违规，或者是否有可能要违规，从而触发拍摄机制，但这不意味着一定会吃罚单，因为稍后还需要人工审查是否确存在违规驾驶行为。在美国行车上路，切记安全驾驶。红灯停，绿灯行，黄灯是可停可不停"
 heading: 啊！过路口被闪了一下……
 publish: true
 published: true
@@ -54,11 +54,11 @@ date: 2016-04-11
 
 最后，啰嗦一下美国的交规吧。希望大家安全驾驶，为自己，为车里的乘客，也为与你共享道路的其他人的安全负责。
 
-红灯停，绿灯行<br>
+<span style="color:#2e8b57">**红灯停，绿灯行</span><br>
 黄灯通常也是应该停的。关于黄灯，在加州驾驶指导手册上时这么说的，其他州应该也差不多是这样：
-A yellow traffic signal light means “CAUTION.” The red traffic signal light is about to appear. When you see the yellow traffic signal light, stop if you can do so safely. If you cannot stop safely, cross the intersection cautiously.
+<blockquote>A yellow traffic signal light means “CAUTION.” The red traffic signal light is about to appear. When you see the yellow traffic signal light, stop if you can do so safely. If you cannot stop safely, cross the intersection cautiously.</blockquote>
 
-大伙可以这么理解，看到红灯是一定要停住的。即便是红灯右转，也是必须要先停在白线前，确认安全后才能继续右转。我们平日里说的闯红灯（Red Light Violation）是指在红灯的时候冲入路口，红灯右转如果不停，也算闯红灯。
+大伙可以这么理解，**看到红灯是一定要停住的**。即便是红灯右转，也是必须要先停在白线前，确认安全后才能继续右转。我们平日里说的闯红灯（Red Light Violation）是指在红灯的时候冲入路口，红灯右转如果不停，也算闯红灯。
 
 而黄灯是可停也可不停，只要是在黄灯的时候进入的十字路口，之后就算交通灯转红了也不算闯红灯。比较难处理的情况是在接近路口的时候绿灯转成了黄灯，尤其对于新手来说。这种情况如何判断是停好还是不停好，至今还是很困扰我的一个问题，闯过去吧，在某些情况下可能就悲剧的闯红灯了；停住吧，某些时候就给自己搞了个十分心塞的急刹，万一后车跟的比较近，还可能被追尾。我现在每次远远都看到绿灯亮了很久，在接近的时候就会心里打鼓，害怕它突然转黄了。可能再多开几年车，应该会好一些吧。
 
