@@ -1,0 +1,49 @@
+---
+layout: default
+---
+<div class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  {% if page.image %}
+    <div class="featuredImage">
+        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
+      </div>
+  {% endif %}
+  <h1 class="postTitle" itemprop="headline">{{ page.heading }}</h1>
+  <p class="meta">{{ page.date | date: '%B %d, %Y' }}</p>
+  <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
+  <h3 itemprop="author" itemscope itemtype="https://schema.org/Person">
+     <meta itemprop="name" content="{{ site.author }}">
+  </h3>
+  <meta itemprop="description" content="{{ page.description }}">
+  <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+      <meta itemprop="url" content="{{ site.logo | prepend: site.url }}">
+      <meta itemprop="width" content="88">
+      <meta itemprop="height" content="89">
+    </div>
+    <meta itemprop="name" content="{{ site.name }}">
+  </div>
+  <meta itemprop="datePublished" content="{{ page.datePublished }}"/>
+  <meta itemprop="dateModified" content="{{ page.date }}"/>
+  {{ content }}
+
+
+  <!-- POST NAVIGATION -->
+  <div class="postNav clearfix">
+    {% if page.previous.publish %}
+      <a class="prev{% if page.previous.image %} image{% endif %}" href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.heading }}</span>
+      {% if page.previous.image %}
+        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.previous.image }}" alt="">
+      {% endif %}
+    </a>
+    {% endif %}
+    {% if page.next.publish %}
+      <a class="next{% if page.next.image %} image{% endif %}" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.heading }}&nbsp;&raquo;</span>
+      {% if page.next.image %}
+        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.next.image }}" alt="">
+      {% endif %}
+      </a>
+    {% endif %}
+  </div>
+  {% include disclaimer.html %}
+  {% include disqus.html %}
+</div>

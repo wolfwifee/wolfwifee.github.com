@@ -1,0 +1,14 @@
+@font-face
+{
+  font-family: 'mfyueyuan';
+  src: url("../fonts/MFYueYuan_Noncommercial-Regular-min.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face
+{
+  font-family: 'mfyuehei';
+  src: url("../fonts/MFYueHei_Noncommercial-Regular-min.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}

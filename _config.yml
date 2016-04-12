@@ -1,0 +1,39 @@
+title: 初来乍到一二三
+description: 美国生活指南
+
+name: BlogUS123
+author: Wolfwifee
+logo: /assets/img/logo.png
+
+url: https://www.blogus123.com
+baseurl: ""
+
+permalink: /:categories/:title/
+
+encoding: UTF-8
+markdown: kramdown
+highlighter: rouge
+timezone: "America/Los Angeles"
+
+# Paginate
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "/page:num/"
+
+navigation:
+ - title: 主页
+   url: /
+ - title: 关于
+   url: /about/
+ - title: 联系
+   url: /contact/
+
+social:
+   github: /
+   twitter: /
+   facebook: /
+   email: wolfwifee@gmail.com
+
+google_analytics: UA-76281246-1
+google_webmaster: kuzTN2sofeU4UgTA70VCl__QzrEDidfmE6WKK_6rCFU
+disqus: blogus123
