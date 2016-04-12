@@ -6,8 +6,7 @@ heading: 啊！过路口被闪了一下……
 publish: true
 published: true
 datePublished: 2016-04-11T00:00:00.000Z
-dateModified: 2016-04-12T00:00:00.000Z
-date: 2016-04-11
+date: 2016-04-12
 ---
 
 <span class="dropcap">怎</span>么办，我好方啊！！！刚才怎么了，出什么事了，是不是要吃罚单了？？？罚单那么贵，肉好疼！！！可是是为什么呢，我好像没有违规啊！！！这个路口经过好多次了，为什么就这次被闪了？？？
