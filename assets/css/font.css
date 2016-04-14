@@ -12,3 +12,10 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face
+{
+  font-family: 'mfyueyuanh';
+  src: url("../fonts/MFYueYuan_Noncommercial-Regular-header.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
