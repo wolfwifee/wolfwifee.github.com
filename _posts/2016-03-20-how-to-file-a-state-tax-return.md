@@ -17,13 +17,14 @@ dateModified: 2016-03-20
 
 我自己住在加州，就只能以加州为例了。加州州税使用的报税表格有：表格540 、 表格540-2EZ、540-NR(Long)和540-NR(Short)。其中，**表格540和540 2EZ是给California Resident(加州税法上的全年居民)用的，而540-NR(Long)和540-NR(Short)则给报税年在加州为Nonresident(非税法居民)和Part-Year Resident(只有部分时间为税法居民)的人使用的**。
 
-相信经过了联邦税的折腾后，对Resident的定义应该不陌生了。有需要的话也可以参看一下之前写的三篇报税系列的文章↓↓↓<br>
+相信经过了联邦税的折腾后，对Resident的定义应该不陌生了。有需要的话也可以参看一下之前写的三篇报税系列的文章↓↓↓
+
 [报税这件事情(一)：什么是报税](/what-is-tax-return/){:style="color:#0089BC"}<br>
 [报税这件事情(二)：Nonresident Alien 还是 Resident Alien](/do-i-need-to-file-tax-return/){:style="color:#0089BC"}<br>
 [报税这件事情(三)：如何申报联邦税](/how-to-file-tax-return/){:style="color:#0089BC"}
 
 
-<p style="margin-bottom:50px"></p>
+<p style="margin-bottom:70px"></p>
 
 ***
 
