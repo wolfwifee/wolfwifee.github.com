@@ -117,3 +117,10 @@ SACRAMENTO, CA 94267-0001
 如果你不是在加州报税，我也还是建议优先使用各州政府官网的免费在线申报系统，会比直接填纸质表格省心不少。或者你也可以先用Turbotax感受一下报税的过程。Turbotax即使是收费版本，也是到最后一步提交的时候才收钱，那个时候，Tax Refund也已经给你算好了，符合的减税免税项目也已经给你找出来了，此时再自己填税表也会更加得心应手。
 
 <p style="margin-bottom:70px"></p>
+
+退税查询
+提交报税后，如果有退税，可登录[加州政府的退税查询页面](https://webapp.ftb.ca.gov/shared/privacy.aspx?Submit=Check+Refund&redirectURL=REF&Lang=english&WT.si_n=StandardRefund&WT.si_x=2){:target="_blank" style="color:#0089BC"}查询退税情况。查询的时候，需要输入SSN号码，地址中的门牌号，ZIP Code和退税的金额。
+
+采用在线报税（e-filling）方式的人，一般会在7到12个工作日收到退税；而邮寄纸质税表报税的人，则需要2-3个月的时间。
+
+<p style="margin-bottom:70px"></p>
