@@ -124,7 +124,7 @@ SACRAMENTO, CA 94267-0001
 <p style="margin-bottom:50px"></p>
 
 **<span style="color:#2e8b57">退税查询</span>**<br>
-提交报税后，如果有退税，可登录[加州政府的退税查询页面](https://webapp.ftb.ca.gov/shared/privacy.aspx?Submit=Check+Refund&redirectURL=REF&Lang=english&WT.si_n=StandardRefund&WT.si_x=2){:target="_blank" style="color:#0089BC"}查询退税情况。查询的时候，需要输入SSN号码，地址中的门牌号，ZIP Code和退税的金额。
+提交报税后，如果有退税，可登录[加州政府的退税查询页面](https://webapp.ftb.ca.gov/refund/login.aspx?Lang=en-US){:target="_blank" style="color:#0089BC"}查询退税情况。查询的时候，需要输入SSN号码，地址中的门牌号，ZIP Code和退税的金额。
 
 采用在线报税（e-filling）方式的人，一般会在7到12个工作日收到退税；而邮寄纸质税表报税的人，则需要2-3个月的时间。
 
