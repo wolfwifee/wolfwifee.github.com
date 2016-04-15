@@ -19,6 +19,8 @@ date: 2016-04-14
 
 **各州的法律对紧急车辆均有类似的规定，基本思想就是在安全的情况下，靠边停车让出车道，让紧急车辆通过。**
 
+<p style="margin-bottom:70px"></p>
+
 此处强调一下，这里说的遇到紧急车辆是指你已经能看到它的方位，如果只是听到鸣笛声还不知道它在哪里，那么请先集中注意力，准备随时靠边停车。
 
 <p style="margin-bottom:70px"></p>
@@ -54,7 +56,7 @@ date: 2016-04-14
 
 如果紧急车辆上有人用扩音器指示你该怎么做，按他的指示去做。
 
-<p style="margin-bottom:70px"></p>
+<p style="margin-bottom:90px"></p>
 
 <span style="color:#2e8b57">**场景5：停靠在路边的紧急车辆 & Move Over Laws**</span><br>
 过去的这些年，因为发生了好多起停靠在路边执行公务的警员和维修作业的工作人员伤亡的事故，美国交通部（U.S. Department of Transportation, USDOT）和联邦高速管理局（FHWA）专门建立了这个叫做 Move Over Laws的法律。这项法律旨在保护在路边执行公务的警员和工作人员，目前在全美50个州均已获得通过。
