@@ -12,19 +12,16 @@ dateModified: 2016-03-20
 
 
 
-
-
-
-
-
-
-
-
-
 <span class="dropcap">州</span>税：报完联邦税，可千万别忘记报州税。除非你所在的州不征收州税，例如德州。州税的申报截止日期和联邦税相同，在每年的4月15日附近。如果你使用的是付费的报税软件，通常也不太需要担心，因为它们大多也提供报州税的功能。
 报州税过程和报联邦税的差不多，而且州税法也远没有联邦税法那么复杂缠绕，因此填写过程也会简单一些。部分减免税项目可能会和联邦税规定稍有不同，填写的时候多注意一下。
 
-我自己住在加州，就只能以加州为例了。加州州税使用的报税表格有：表格540 、 表格540-2EZ、540-NR(Long)和540-NR(Short)。其中，**表格540和540 2EZ是给California Resident(加州税法上的全年居民)用的，而540-NR(Long)和540-NR(Short)则给报税年在加州为Nonresident(非税法居民)和Part-Year Resident(只有部分时间为税法居民)的人使用的**。相信经过了联邦税的折腾后，对Resident的定义应该不陌生了。
+我自己住在加州，就只能以加州为例了。加州州税使用的报税表格有：表格540 、 表格540-2EZ、540-NR(Long)和540-NR(Short)。其中，**表格540和540 2EZ是给California Resident(加州税法上的全年居民)用的，而540-NR(Long)和540-NR(Short)则给报税年在加州为Nonresident(非税法居民)和Part-Year Resident(只有部分时间为税法居民)的人使用的**。
+
+相信经过了联邦税的折腾后，对Resident的定义应该不陌生了，也可以参看一下之前写的三篇报税系列的文章↓↓↓<br>
+[报税这件事情(一)：什么是报税](/what-is-tax-return/){:style="color:#0089BC"}<br>
+[报税这件事情(二)：Nonresident Alien 还是 Resident Alien](/do-i-need-to-file-tax-return/){:style="color:#0089BC"}<br>
+[报税这件事情(三)：如何申报联邦税](/how-to-file-tax-return/){:style="color:#0089BC"}
+
 
 <p style="margin-bottom:50px"></p>
 
