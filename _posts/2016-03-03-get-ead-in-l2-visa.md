@@ -24,7 +24,7 @@ EAD的审批期最长为三个月，快的话一个月左右收到也是有的�
 * I-94表: [到美国海关网站在线打印出最新的I-94](https://i94.cbp.dhs.gov/I94/consent.html;jsessionid=rJV4WckYKvJc1mRy1GGrnljRPGdrbX2047wQgpQnhlQf72v7p1vF!1808615784){:target="_blank" style="color:#0089BC"}；
 * 你另一半的L1护照和VISA页的复印件；
 * 你自己的L2护照和VISA页的复印件；
-* 结婚证复印件及翻译件：无需找专业的公证机构，自己翻译好，请一位懂中文又懂英文的朋友申明一下翻译内容是精确，再签个字就可以了；具体请看《[结婚证的翻译和公证](https://www.blogus123.com/the-marriage-certificate-translation-and-notarization/){:target="_blank" style="color:#0089BC"}》这篇文章；
+* 结婚证复印件及翻译件：无需找专业的公证机构，自己翻译好，请一位懂中文又懂英文的朋友申明一下翻译内容是精确，再签个字就可以了；具体请看《[结婚证的翻译和公证](/the-marriage-certificate-translation-and-notarization/){:style="color:#0089BC"}》这篇文章；
 * 2寸证件照两张；用铅笔在照片的背面轻轻写上名字和Alien Receipt Number(如没有Alien Receipt Number，只写名字即可);
 * 380刀的申请费：支票或money order，支付对象要完整的写明是“U.S. Department of Homeland Security”；支票范例如下：
 
