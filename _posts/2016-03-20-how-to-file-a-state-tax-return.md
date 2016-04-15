@@ -27,15 +27,11 @@ dateModified: 2016-03-20
 [报税这件事情(三)：如何申报联邦税](/how-to-file-tax-return/){:style="color:#0089BC"}
 
 
-<p style="margin-bottom:70px"></p>
+<p style="margin-bottom:90px"></p>
 
-***
+**<span style="color:#2e8b57">California Full Year Resident，使用540 2EZ还是540？</span>**
 
-<p style="margin-bottom:50px"></p>
-
-**California Full Year Resident，使用540 2EZ还是540？**
-
-║表格540 2EZ - California Full Year Resident可以使用540 2EZ申报加州州税的条件如下：
+║**表格540 2EZ** - California Full Year Resident可以使用540 2EZ申报加州州税的条件如下：
 
 - 申报状态是单身、夫妇联合申报、一家之主或是丧偶人士；<br>
 - 申报的Dependent(受抚养人)个数不超过3个，即只可以使用最多三个Dependents Exemptions(受抚养人免税额)；<br>
