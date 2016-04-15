@@ -26,12 +26,15 @@ dateModified: 2016-03-20
 [报税这件事情(二)：Nonresident Alien 还是 Resident Alien](/do-i-need-to-file-tax-return/){:style="color:#0089BC"}<br>
 [报税这件事情(三)：如何申报联邦税](/how-to-file-tax-return/){:style="color:#0089BC"}
 
+<p style="margin-bottom:50px"></p>
 
-<p style="margin-bottom:90px"></p>
+***
+
+<p style="margin-bottom:50px"></p>
 
 **<span style="color:#2e8b57">California Full Year Resident，使用540 2EZ还是540？</span>**
 
-**表格540 2EZ↓↓↓**<br>
+**表格540 2EZ**<br>
 California Full Year Resident可以使用540 2EZ申报加州州税的条件如下：
 
 - 申报状态是单身、夫妇联合申报、一家之主或是丧偶人士；<br>
@@ -49,7 +52,7 @@ California Full Year Resident可以使用540 2EZ申报加州州税的条件如�
 
 <p style="margin-bottom:70px"></p>
 
-**表格540↓↓↓**<br>
+**表格540**<br>
 不符合540 2EZ使用条件的California Full Year Resident，请使用表格540来申报加州州税。而对于符合使用540 2EZ条件的报税人，依然可以选择使用表格540来进行报税，因为如果选择使用表格540 2EZ，在各种应税扣减项和税款减免项的应用上还有如下限制：
 
 - 没有Adjustments to Total Income：不同于Itemize Deductions，Adjustments Deductions是指可以用在净收入上的扣减项目，类似于教育支出、医疗费用支出、搬家花费、赡养费等，与选择Standard Deduction还是Itemized Deductions无关；<br>
@@ -67,7 +70,7 @@ California Full Year Resident可以使用540 2EZ申报加州州税的条件如�
 
 <p style="margin-bottom:50px"></p>
 
-可以邮寄纸质税表或是使用州政府官网提供的在线申报系统来提交州税。
+**<span style="color:#2e8b57">可以邮寄纸质税表或是使用州政府官网提供的在线申报系统来提交州税。</span>**
 
 <p style="margin-bottom:50px"></p>
 
@@ -114,7 +117,11 @@ SACRAMENTO, CA 94267-0001
 
 如果你不是在加州报税，我也还是建议优先使用各州政府官网的免费在线申报系统，会比直接填纸质表格省心不少。或者你也可以先用Turbotax感受一下报税的过程。Turbotax即使是收费版本，也是到最后一步提交的时候才收钱，那个时候，Tax Refund也已经给你算好了，符合的减税免税项目也已经给你找出来了，此时再自己填税表也会更加得心应手。
 
-<p style="margin-bottom:70px"></p>
+<p style="margin-bottom:50px"></p>
+
+***
+
+<p style="margin-bottom:50px"></p>
 
 **<span style="color:#2e8b57">退税查询</span>**<br>
 提交报税后，如果有退税，可登录[加州政府的退税查询页面](https://webapp.ftb.ca.gov/shared/privacy.aspx?Submit=Check+Refund&redirectURL=REF&Lang=english&WT.si_n=StandardRefund&WT.si_x=2){:target="_blank" style="color:#0089BC"}查询退税情况。查询的时候，需要输入SSN号码，地址中的门牌号，ZIP Code和退税的金额。
