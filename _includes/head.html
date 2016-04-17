@@ -8,6 +8,8 @@
     {% if page.description %}
       <meta name="description" content="{{ page.description}}"/>
     {% endif %}
+    <!-- Modernizr -->
+    {% include modernizr.html %} 
     <!-- Stylesheet -->
     <link rel="preload" href="/assets/fonts/MFYueYuan_Noncommercial-Regular-min-title.ttf" as="font" type="font/ttf" crossorigin>
     <link rel="preload" href="/assets/fonts/MFYueYuan_Noncommercial-Regular-min.ttf" as="font" type="font/ttf" crossorigin>
@@ -24,8 +26,6 @@
     {% if paginator.next_page %}
     <link rel="next" href="{{ paginator.next_page_path | prepend: site.url }}" />
     {% endif %}
-    <!-- Modernizr -->
-    {% include modernizr.html %} 
     {% if site.google_webmaster %} 
     <meta name="google-site-verification" content="{{ site.google_webmaster }}" /> 
     {% endif %}
