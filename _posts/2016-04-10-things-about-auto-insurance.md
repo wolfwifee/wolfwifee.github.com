@@ -95,6 +95,17 @@ Geico说是没有local agent也没所谓，geico 就 a phone call away. 但实�
 
 在美国这样一个保险无处不在的国家，无论车险、健康险还是其他保险，购买时候，一定要弄清楚自己基本的Policy。当时没有搞明白的，之后随时都可以email或打电话给客服问清楚，网上也有很多其他人分享信息可查询，这样做可以省掉后续许多的麻烦。
 
+<p style="margin-bottom:90px"></p>
+
+**<span style="color:#2e8b57">车险省钱之道</span>**
+
+除了货比三家之外，许多人反馈，同一家公司车险renew的时候，常常会以reevaluate作为理由涨价，即使投保期间从未发生过事故。当然，如果是因为Coverage变了涨价那另说。
+
+因此，在车险快到期的时候，四处报报价格，哪怕是进到当前保险公司的网站去重新报一次价，可能也会比直接renew低不少。现在各家公司都提供在线报价，坐在电脑前，鼠标点一点，键盘敲一敲就知道价格了，也不用担心会被agent纠缠什么的。
+
+但是，这里也提醒大家，为了避免在理赔的时候出现问题，还是尽量选大公司的车险，Progressive，Geico，Allstate，State Farm，Costco（Ameriprise），AAA等等，不要一味贪图便宜买了小品牌的车险，结果真的需要理赔的时候发现存在很大的麻烦。像Infinity，Mercy，Esurance等，网上一查，几乎全都是负面评价，慎重购买啊。
+
+
 <p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
  <img src="/assets/img/qrcode/things-about-auto-insurance.png" alt="车险哪家好微信二维码">
   <meta itemprop="url" content="https://www.blogus123.com/assets/img/qrcode/things-about-auto-insurance.png">
