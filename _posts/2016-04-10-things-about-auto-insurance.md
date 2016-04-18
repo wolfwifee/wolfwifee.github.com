@@ -40,7 +40,7 @@ date: 2016-04-10
 
 一般来说$200刀半年的人具有如下这些特性：<br>
 
--  驾龄越高越好，超过5年比较好<br>
+-  驾龄越高越好，3年以上为佳，超过5年更好<br>
 -  最近3年没发生过事故，如果连罚单都没有吃过就更好了<br>
 -  开的越少，保费越低，据说7500迈／年是一个坎，每年开车低于这个数字的保费会有折扣<br>
 -  年纪超过25，年纪大的人开车比较稳重<br>
@@ -99,11 +99,11 @@ Geico说是没有local agent也没所谓，geico 就 a phone call away. 但实�
 
 **<span style="color:#2e8b57">车险省钱之道</span>**
 
-除了货比三家之外，许多人反馈，同一家公司车险renew的时候，常常会以reevaluate作为理由涨价，即使投保期间从未发生过事故。当然，如果是因为Coverage变了涨价那另说。
+除了货比三家之外，许多人反馈，同一家公司车险renew的时候，即使投保期间从未发生过事故，常常会被以reevaluate作为理由涨价。不过，如果涨价是因为Coverage变了那另说。
 
 因此，在车险快到期的时候，四处报报价格，哪怕是进到当前保险公司的网站去重新报一次价，可能也会比直接renew低不少。现在各家公司都提供在线报价，坐在电脑前，鼠标点一点，键盘敲一敲就知道价格了，也不用担心会被agent纠缠什么的。
 
-但是，这里也提醒大家，为了避免在理赔的时候出现问题，还是尽量选大公司的车险，Progressive，Geico，Allstate，State Farm，Costco（Ameriprise），AAA等等，不要一味贪图便宜买了小品牌的车险，结果真的需要理赔的时候发现存在很大的麻烦。像Infinity，Mercy，Esurance等，网上一查，几乎全都是负面评价，慎重购买啊。
+但是，这里也提醒大家，为了避免在理赔的时候出现问题，还是尽量从Progressive，Geico，Allstate，State Farm，Farmers，Costco（Ameriprise），AAA等大公司手里买车险，不要一味贪图便宜买了小品牌的车险，结果到道需要理赔的时候，发现存在很大的麻烦。像Infinity，Mercy，Esurance等，网上一查，几乎全都是负面评价，慎重购买啊。
 
 
 <p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
