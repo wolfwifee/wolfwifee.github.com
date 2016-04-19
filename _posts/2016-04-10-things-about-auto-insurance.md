@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 美国车险如何选Coverage？Geico，Progressive，State Farm，Allstate车险选哪家好？怎么买车险省钱？
-description: "美国车险半保和全保区别在于买了多少Coverage，越多保费越高。驾龄驾驶记录对保费影响很大。保费因人而异，购买车险一定要货比三家。大部分情况下Geico最便宜。车险跟车走，借车给他人需谨慎。"
+description: "美国车险半保和全保区别在于买了多少Coverage，越多保费越高。驾龄驾驶记录对保费影响很大。保费因人而异，购买车险一定要货比三家，尽量选择从大公司手里买车险。大部分情况下Geico最便宜。车险跟车走，借车给他人需谨慎。"
 heading: 车险！车险！车险！
 publish: true
 published: true
@@ -126,7 +126,7 @@ Geico说是没有local agent也没所谓，geico 就 a phone call away. 但实�
 
 话说自从我从Geico换到State Farm后，过了三个月，又去Geico的网站报了个价，保费已经由$98+/月下降到$68+/月了，目前打算半年到期后，再换回Geico。所以，不要懒，多报价是王道啊，必要时更换保险公司不要手软。
 
-但是，这里也提醒大家，为了避免在理赔的时候出现问题，还是尽量从Progressive，Geico，Allstate，State Farm，Farmers，Costco（Ameriprise），AAA等大公司手里买车险，不要一味贪图便宜买了小品牌的车险，结果到道需要理赔的时候，发现存在很大的麻烦。像Infinity，Mercy，Esurance等，网上一查，几乎全都是负面评价，慎重购买啊。
+但是，这里也提醒大家，为了避免在理赔的时候出现问题，还是尽量从Progressive，Geico，Allstate，State Farm，Farmers，Costco（Ameriprise），AAA等大公司手里买车险，不要一味贪图便宜买了小品牌的车险，结果到需要理赔的时候，发现存在很大的麻烦。像Infinity，Mercy，Esurance等，网上一查，几乎全都是负面评价，慎重购买啊。
 
 
 <p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
