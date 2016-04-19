@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 美国车险如何选Coverage？车险公司选哪家好？
-description: "美国车险半保和全保区别在于买了多少Coverage，越多保费越高。驾龄驾驶记录对保费影响很大。保费因人而异，购买车险的时候一定要货比三家。大部分情况下Geico最便宜。"
+title: 美国车险如何选Coverage？Geico，Progressive，State Farm，Allstate车险选哪家好？怎么买车险省钱？
+description: "美国车险半保和全保区别在于买了多少Coverage，越多保费越高。驾龄驾驶记录对保费影响很大。保费因人而异，购买车险一定要货比三家。大部分情况下Geico最便宜。车险跟车走，借车给他人需谨慎。"
 heading: 车险！车险！车险！
 publish: true
 published: true
@@ -108,7 +108,7 @@ Geico说是没有local agent也没所谓，geico 就 a phone call away. 但实�
 
 遇到第二个Agent是我在拿到驾照大半年后，当时是因为我老公的Driver Lisence考过了，然后Geico的车险Renew一下涨了近一半的钱，从每个月58刀到98刀，我当然就不干了，于是就去找其他家报价。Progressive，State Farm，Famers，AAA，Travelers，Esurance，Nationalwide，前前后后报了一圈，除了State Farm的价格比Geico的略低点，其他的每月都在100刀以上。
 
-结果这位Allsate的Agent给出了一个极低价：半保半年是$290+，比涨价前的Geico还便宜不少，自然我也就打算买他们家的了。
+结果这位Allstate的Agent给出了一个极低价：半保半年是$290+，比涨价前的Geico还便宜不少，自然我也就打算买他们家的了。
 
 然而，同样的事情又发生了，电话联系，报我的信息，刷卡，Agent给我email了信息确认单，让我签字扫描给她。仔细看了，发现给我和我老公都填了有超过10年的国际驾龄，还有其他一系列的错误信息。我打电话给她要求更改，她说如果不这么写，报价会高很多，还劝我说没关系的，保险公司不会查的。。。总之，也许是我是一个死板的人，觉得这个字一旦签下去，未知的法律风险我承担不起，最后，还是坚持让她帮我取消了Allstate的车险，转而买了State Farm的。
 
@@ -121,6 +121,8 @@ Geico说是没有local agent也没所谓，geico 就 a phone call away. 但实�
 除了货比三家之外，许多人反馈，同一家公司车险renew的时候，即使投保期间从未发生过事故，常常会被以reevaluate作为理由涨价。不过，如果涨价是因为Coverage变了那另说。
 
 因此，在车险快到期的时候，四处报报价格，哪怕是进到当前保险公司的网站去重新报一次价，可能也会比直接renew低不少。现在各家公司都提供在线报价，坐在电脑前，鼠标点一点，键盘敲一敲就知道价格了，也不用担心会被agent纠缠什么的。
+
+话说自从我从Geico换到State Farm后，过了三个月，又去Geico的网站报了个价，保费已经由$98+/月下降到$68+/月了，目前打算半年到期后，再换回Geico。所以，不要懒，多报价是王道啊，必要时更换保险公司不要手软。
 
 但是，这里也提醒大家，为了避免在理赔的时候出现问题，还是尽量从Progressive，Geico，Allstate，State Farm，Farmers，Costco（Ameriprise），AAA等大公司手里买车险，不要一味贪图便宜买了小品牌的车险，结果到道需要理赔的时候，发现存在很大的麻烦。像Infinity，Mercy，Esurance等，网上一查，几乎全都是负面评价，慎重购买啊。
 
