@@ -114,6 +114,8 @@ Geico说是没有local agent也没所谓，geico 就 a phone call away. 但实�
 
 这次的退款等了快一个月还没回来，后来自己给Allstate的客服打电话和写邮件，说Agent报价的时候搞错了我的信息，更正后价格过高无法接受，说好的退款一直没看到等，又过了两个星期钱才要回来。
 
+不过公平说来，这更多的是Agent的问题，而非Allstate的，所以下次到了要换车险的时候，还是会找Allstate报价的，哪家低用哪家。
+
 <p style="margin-bottom:90px"></p>
 
 **<span style="color:#2e8b57">车险省钱之道</span>**
