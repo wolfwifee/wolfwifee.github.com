@@ -7,6 +7,14 @@
 {% include head.html %}
 
 <body>
+   {% include header.html %}
+
+   <div class="content">
+      <div class="container">
+         {{ content }}
+      </div>
+      <a href="#" class="cd-top">Top</a>
+   </div><!-- end .content -->
 <style>
 .cd-top {
 display: inline-block;
@@ -60,15 +68,6 @@ opacity: 1;
 }
 }
 </style>
-   {% include header.html %}
-
-   <div class="content">
-      <div class="container">
-         {{ content }}
-      </div>
-      <a href="#" class="cd-top">Top</a>
-   </div><!-- end .content -->
-
    {% include footer.html %}
    {% include scripts.html %}
 
