@@ -21,3 +21,4 @@ http://www.apache.org/licenses/LICENSE-2.0.html
 <script>
   $(document).ready(function(){var dropcaps=document.querySelectorAll(".dropcap");window.Dropcap.layout(dropcaps,2);var nav=responsiveNav(".nav-collapse");$(".time").text(function(index,value){return Math.round(parseFloat(value));});});
 </script>
+{% if site.google_analytics %} {% include google_analytics.html %} {% endif %}
