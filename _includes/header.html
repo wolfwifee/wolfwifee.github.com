@@ -3,7 +3,10 @@
 <span class="yuehei">美国</span>
 <div class="header">
      <div class="container">
-         <h1 class="logo"><a href="/">{{ site.title }}</a></h1>
+         <h1 class="logo"><a href="/" data-event-category="link"
+    data-event-action="click"
+    data-event-label="logo"
+    data-event-value="1">{{ site.title }}</a></h1>
          <nav class="nav-collapse">
              <ul class="noList">
                  {% for link in site.navigation %}{% assign current = nil %}{% if page.url == link.url %}{% assign current = 'current' %}{% endif %}
