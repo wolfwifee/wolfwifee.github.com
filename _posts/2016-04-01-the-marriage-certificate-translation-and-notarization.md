@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 在美国如何翻译并公证中国结婚证？
-description: 在美国生活，只持有中国结婚证的朋友在办理诸如H4/EAD/SSN/绿卡等申请时，需要提交婚姻证明材料改怎么办呢？其实很简单，只需要自己翻译结婚证再找一位中国朋友签字公证即可。这片文章就是分享结婚证上内容的翻译，以及公证信的内容及格式……
+description: >-
+  在美国生活，只持有中国结婚证的朋友在办理诸如H4/EAD/SSN/绿卡等申请时，需要提交婚姻证明材料改怎么办呢？其实很简单，只需要自己翻译结婚证再找一位中国朋友签字公证即可。这片文章就是分享结婚证上内容的翻译，以及公证信的内容及格式……
 heading: 结婚证的翻译及公证
 publish: true
 published: true
-datePublished: 2016-04-01
-dateModified: 2016-04-01
+datePublished: {}
+dateModified: {}
 ---
 
 <span class="dropcap">U</span>SCIS说了，各种申请中，涉及到需要提交非英文的证明材料，都必须一并提交一份公证过的英文翻译件：
@@ -97,7 +98,7 @@ Name
 </td>
 <td width="20%">
 性别<br>
-Sexuality
+Gender
 </td>
 </tr>
 <tr>
@@ -125,7 +126,7 @@ Name
 </td>
 <td>
 性别<br>
-Sexuality
+Gender
 </td>
 </tr>
 <tr>
