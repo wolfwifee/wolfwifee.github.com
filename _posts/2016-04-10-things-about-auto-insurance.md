@@ -1,13 +1,12 @@
 ---
 layout: post
 title: 美国车险如何选Coverage？Geico，Progressive，State Farm，Allstate车险选哪家好？怎么买车险省钱？
-description: >-
-  美国车险半保和全保区别在于买了多少Coverage，越多保费越高。驾龄驾驶记录对保费影响很大。保费因人而异，购买车险一定要货比三家，尽量选择从大公司手里买车险。大部分情况下Geico最便宜。车险跟车走，借车给他人需谨慎。
+description: 美国车险半保和全保区别在于买了多少Coverage，越多保费越高。驾龄驾驶记录对保费影响很大。保费因人而异，购买车险一定要货比三家，尽量选择从大公司手里买车险。大部分情况下Geico最便宜。车险跟车走，借车给他人需谨慎。
 heading: 车险！车险！车险！
 publish: true
 published: true
-datePublished: {}
-date: {}
+datePublished: 2016-04-18T00:00:00.000Z
+date: 2016-08-18
 ---
 
 <span class="dropcap">重</span>要的事情说三遍。在美帝生活离不开车，而开车就不能没有车辆保险。因为裸奔的话，一旦被抓，驾照吊销，车辆注册吊销，好几百刀甚至上千刀的罚单，驾驶记录留污点，未来买车险保费大涨，还可能未来3年内你都需要车险公司为你提交SR-22给DMV。如果裸奔期间还造成了事故，那很可能要进去一段时间了。
