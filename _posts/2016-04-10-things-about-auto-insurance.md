@@ -142,7 +142,11 @@ Geico说是没有local agent也没所谓，geico 就 a phone call away. 但实�
 
 但是，这里也提醒大家，为了避免在理赔的时候出现问题，还是尽量从Progressive，Geico，Allstate，State Farm，Farmers，Costco（Ameriprise），AAA等大公司手里买车险，不要一味贪图便宜买了小品牌的车险，结果到需要理赔的时候，发现存在很大的麻烦。像Infinity，Mercy，Esurance等，网上一查，几乎全都是负面评价，慎重购买啊。
 
-
+<p itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">评分：<span itemprop="ratingValue">4.9</span>分，已有<span itemprop="ratingCount">87</span>人打分
+      
+      <meta itemprop="bestRating" content="5">
+      <meta itemprop="worstRating" content="1">
+ </p>
 <p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
  <img src="/assets/img/qrcode/things-about-auto-insurance.png" alt="车险哪家好微信二维码">
   <meta itemprop="url" content="https://www.blogus123.com/assets/img/qrcode/things-about-auto-insurance.png">
