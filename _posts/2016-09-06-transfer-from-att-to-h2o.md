@@ -16,15 +16,7 @@ date: 2016-09-06
 
 先来看一份AT&T目前可选的最便宜的个人话费账单(个人Plan):
 
-| Mobile Share Advantage 1GB  ---- $30.00<br>(访问4G网络的费用，AT&T可选到的最小的Data plan是1GB)<br>Access for iPhone 4G LTE wireless/voice mail    ---- $20.00<br>(打电话发短信的费用) |
-
-Surcharges & Fees  ---- 5刀左右吧
-（一些管理费）
-
-Government fee & Taxes   ---- 2刀多
-(税)
-
-总计：55刀左右
+| Mobile Share Advantage 1GB  ---- $30.00<br>(访问4G网络的费用，AT&T可选到的最小的Data plan是1GB)<br><br>Access for iPhone 4G LTE wireless/voice mail    ---- $20.00<br>(打电话发短信的费用)<br><br>Surcharges & Fees  ---- 5刀左右吧<br>（一些管理费）<br><br>Government fee & Taxes   ---- 2刀多<br>(税)<br><br>总计：55刀左右 |
 
 而且AT&T的很多服务都是要收费的，比如从朋友的family plan里移出来自立门户，或朋友转让一部AT&T的手机给你，基本上但凡有做一些变动，这个月的账单很可能就会蹭蹭的往上涨。。。
 
@@ -35,6 +27,8 @@ Government fee & Taxes   ---- 2刀多
 <p style="margin-bottom:70px"></p>
 
 当然，AT&T也贴心推出了所谓的Family Plan。团购总是更优惠嘛，如果你自己组建或者参与了朋友的Family plan，手机费会少一点，根据人数和流量(Data Plan)，凑到5人话费人均大概在40刀-50刀，凑齐10人大概可降到20刀-30刀左右。此外，Fmaily Plan每加一个人或移除一个人，AT&T都是要收费的哦。
+
+<p style="margin-bottom:70px"></p>
 
 但是，Family Plan也意味着：
 
@@ -56,8 +50,9 @@ Government fee & Taxes   ---- 2刀多
 | 4G/3G网络流量 | 0.1刀/MB   | 0.1刀/MB   | 0.1刀/MB     | 0.1刀/MB   | 0.1刀/MB   |
 | 过期时间      | 90天       | 90天       | 30天         | 90天       | 一年       |
 
-[官网说明页面请点这里](https://www.h2owirelessnow.com/mainControl.php?page=planMin){:target="_blank" style="color:#0089BC"}
+[Pay As You Go Plan 官网说明页面请点这里](https://www.h2owirelessnow.com/mainControl.php?page=planMin){:target="_blank" style="color:#0089BC"}
 
+<p style="margin-bottom:70px"></p>
 
 当然，包月套餐H2O也是有的
 
@@ -69,7 +64,9 @@ Government fee & Taxes   ---- 2刀多
 
 [包月套餐的官网说明页面请看这里](https://www.h2owirelessnow.com/mainControl.php?page=planMonth){:target="_blank" style="color:#0089BC"}
 
-拥抱H2O，逃离AT&T
+<p style="margin-bottom:70px"></p>
+
+**<span style="color:#2e8b57">拥抱H2O，逃离AT&T</span>**<br>
 
 ①AT&T的手机，无论解锁与否，都可以使用H2O，因为H2O其实是一家租用AT&T的基站的运营商。不是AT&T的手机则需要先解锁才可以使用H2O网络；
 
