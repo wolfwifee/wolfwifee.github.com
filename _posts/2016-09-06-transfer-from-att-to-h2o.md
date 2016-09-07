@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 美国电话卡怎么买，哪里买最便宜－H2O，AT&T套餐选择对比
-description: "降低美国手机费支出的办法。使用H2O的Prepaid Plan，手机话费最低可降低至3个月10刀，而AT&T最少也需要每月50刀。"
+description: "降低美国手机费支出的办法。使用H2O的Prepaid Plan，手机话费最低可降低至3个月10刀，而AT&T最少也需要每月50刀。已有的手机号的用户是可以带着原有号码转网到H2O的。"
 heading: 向AT&T高额话费说拜拜
 publish: true
 published: true
@@ -14,7 +14,7 @@ date: 2016-09-06
 
 <p style="margin-bottom:70px"></p>
 
-↓↓↓先来看一份AT&T目前可选的最便宜的个人话费账单(个人Plan):↓↓↓
+↓↓↓先来看一份AT&T目前可选的最便宜的个人话费账单(个人Plan)↓↓↓
 
 | Mobile Share Advantage 1GB  ---- $30.00<br>(访问4G网络的费用，AT&T可选到的最小的Data plan是1GB)<br><br>Access for iPhone 4G LTE wireless/voice mail    ---- $20.00<br>(打电话发短信的费用)<br><br>Surcharges & Fees  ---- 5刀左右吧<br>（一些管理费）<br><br>Government fee & Taxes   ---- 2刀多<br>(税)<br><br>总计：55刀左右 |
 
