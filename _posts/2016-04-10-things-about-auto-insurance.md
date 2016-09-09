@@ -71,7 +71,7 @@ date: 2016-08-18
 
 <p style="margin-bottom:90px"></p>
 
-**根据我的经验，GEICO 和 State Farm 是仅有的两家即使驾龄不足三年也有可能拿到半保半年$400左右的汽车保险公司，当然，前提是你有良好的驾驶记录，即没有罚单没有事故。而其他的保险公司基本都是要过700刀甚至上千刀。**
+**根据我的经验，GEICO 和 State Farm 是仅有的两家即使驾龄不足三年，也有可能拿到半保(Liability)$400/半年左右的汽车保险公司，当然，前提是你有良好的驾驶记录，即没有罚单没有事故。而其他的保险公司，像Famers，Progressive，Liberty Mutual等基本都是要过700刀甚至上千刀。**
 
 <p style="margin-bottom:90px"></p>
 
