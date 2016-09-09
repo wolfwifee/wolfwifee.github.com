@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 美国车险如何选Coverage？Geico，Progressive，State Farm，Allstate车险选哪家好？怎么买车险省钱？
-description: 美国车险半保和全保区别在于买了多少Coverage，越多保费越高。驾龄驾驶记录对保费影响很大。保费因人而异，购买车险一定要货比三家，尽量选择从大公司手里买车险。大部分情况下Geico最便宜。车险跟车走，借车给他人需谨慎。
+title: 美国汽车保险如何买？Geico，Progressive，State Farm，Allstate车险哪家好？怎么买省钱？
+description: 美国车险半保和全保区别在于买了多少Coverage，越多价格越高。驾龄驾驶记录对价格影响很大。保险费用因人而异，购买车险一定要货比三家，美国汽车保险公司有很多，尽量买大公司手的车险。大部分情况下Geico最便宜。车险跟车走，借车给他人需谨慎。
 heading: 车险！车险！车险！
 publish: true
 published: true
