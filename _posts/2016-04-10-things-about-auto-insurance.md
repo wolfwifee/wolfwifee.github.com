@@ -149,8 +149,9 @@ Geico说是没有local agent也没所谓，geico 就 a phone call away. 但实�
 
 <p style="margin-bottom:90px"></p>
 
-最后，再提醒一下：
-车里必须要放的证明有：保险和车辆注册；
+**<span style="color:#2e8b57">最后，再提醒一下：</span>**<br>
+
+车里必须要放的证明有：保险卡和车辆注册；
 
 随身携带：驾照；
 
