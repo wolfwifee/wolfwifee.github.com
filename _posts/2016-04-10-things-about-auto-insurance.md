@@ -147,6 +147,17 @@ Geico说是没有local agent也没所谓，geico 就 a phone call away. 但实�
 
 总之，**把车借给别人开，无论是有偿的还是无偿的，都是风险极大的一件事情**。不过如果车是在车主不知情的情况下被别人开走的，那就另当别论了。
 
+<p style="margin-bottom:90px"></p>
+
+最后，再提醒一下：
+车里必须要放的证明有：保险和车辆注册；
+
+随身携带：驾照；
+
+Title：你对这辆车所有权的证明，这个要在家里藏好哦。
+
+<p style="margin-bottom:75px"></p>
+
 <p itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">评分：<span itemprop="ratingValue">4.9</span>分，已有<span itemprop="ratingCount">87</span>人打分
       
       <meta itemprop="bestRating" content="5">
