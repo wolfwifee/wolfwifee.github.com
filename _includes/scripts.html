@@ -22,15 +22,16 @@ http://www.apache.org/licenses/LICENSE-2.0.html
   $(document).ready(function(){var dropcaps=document.querySelectorAll(".dropcap");window.Dropcap.layout(dropcaps,2);var nav=responsiveNav(".nav-collapse");$(".time").text(function(index,value){return Math.round(parseFloat(value));});});
 </script>
 {% if site.google_analytics %} {% include google_analytics.html %} {% endif %}
-	<script type="text/javascript">
+{% if site.disqus and page.layout == "post" %}
+<script type="text/javascript">
 	    var disqus_shortname = '{{ site.disqus }}';
-	    // ensure that pages with query string get the same discussion
-            var url_parts = window.location.href.split("?");
-            var disqus_url = url_parts[0];
+      var url_parts = window.location.href.split("?");
+      var disqus_url = url_parts[0];
 	    (function() {
 	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
 	        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
 	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
 	    })();
-	</script>
-	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
