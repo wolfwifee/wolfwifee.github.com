@@ -33,4 +33,4 @@ http://www.apache.org/licenses/LICENSE-2.0.html
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
-{% if site.google_analytics %} {% include google_analytics.html %} {% endif %}
+{% if site.google_analytics and page.layout == "post" %} {% include google_analytics.html %} {% endif %}
