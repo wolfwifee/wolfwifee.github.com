@@ -74,7 +74,7 @@ date: 2016-09-06
 
 ③到Amazon或者eBay上买一张H2O的SIM卡，一般只要1美分一张，为了避免不必要的陷阱什么的，切记自己进到H2O的官网激活这张电话卡，具体操作请往下看；
 
-④拿到SIM卡后，打开H2O的官网，选择SERVICE菜单，想继续使用原来的号码，请选择"Transfer Your Number"，使用新号码则请选择"Activate New Number" ↓↓↓
+④拿到SIM卡后，[打开H2O的官网](https://www.h2owirelessnow.com/mainControl.php?page=index){:target="_blank" style="color:#0089BC"}，选择SERVICE菜单，想继续使用原来的号码，请选择"Transfer Your Number"，使用新号码则请选择"Activate New Number" ↓↓↓
 
 <p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
  <img src="/assets/img/H2OServiceMenu.png" alt="H2O服务菜单">
