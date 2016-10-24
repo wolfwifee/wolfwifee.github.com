@@ -83,7 +83,7 @@ date: 2016-09-06
   <meta itemprop="height" content="240">
 </p>
 
-⑤填好相应的表单并且提交。使用新号码的可以直接把新SIM卡插入手机；携号转网需要等带原运营商Release你的号码先，专业术语叫做Port Out，一般等个2到5个小时就可以，当看到你的手机显示No Signal，这表示Port Out完成，取出原手机卡插入H2O的SIM卡就可以了。如果等了一天还没有Port Out完成，可以和H2O的客服Online Chat一下，问问神马情况；
+⑤填好相应的表单并且提交。使用新号码的可以直接把新SIM卡插入手机。新号码用户一般等个10分钟就可以收到激活短信了，携号转网的则需要等带原运营商Release你的号码先，专业术语叫做Port Out，一般等个2到5个小时就可以，当看到你的手机显示No Signal，这表示Port Out完成，取出原手机卡插入H2O的SIM卡就可以了。如果等了一天还没有Port Out完成，可以和H2O的客服Online Chat一下，问问神马情况；
 
 ⑥充值。在H2O的网站上就可以给SIM卡充值了，选择RECHARGE菜单，底下有With PIN，With Credit/Debit Card和Auto Recharge三个选项：
 
