@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何正确应对紧急车辆？什么是Move Over Laws？
+title: 美国交通规则－如何正确应对紧急车辆？什么是Move Over Laws？
 description: "在美国，遇到紧急车辆，请在安全的情况下，靠边停车让出车道。如紧急车辆上有人用扩音器指示你该怎么做，按他的指示去做。对于停靠在路边的紧急车辆，Move Over Laws规定，应提高警惕，减速行驶，并且在安全的情况下，换道至旁边的车道去。"
 heading: 路遇紧急车辆怎么破
 publish: true
