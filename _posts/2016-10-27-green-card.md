@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 解读美国绿卡申请流程及排期。如何获得工作绿卡：EB-1，EB-2，EB-3，EB-4和EB-5。
+title: 解读美国绿卡申请流程及排期，如何获得工作绿卡？EB1，EB2，EB3，EB4和EB5
 description: "所谓绿卡排期只是针对EB-2和EB-3分类，需等待2-6年，可用H1-B，L1B或者L2维持身份。EB-2和EB-3申请期间如果更换工作，可能导致绿卡申请从头再来。EB-1，EB-4和EB-5分类无需等待，可直接提交绿卡申请。"
 heading: 绿卡到底有多远
 publish: true
