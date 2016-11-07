@@ -19,6 +19,13 @@ date: 2016-11-07
 
 ANA全日空所需的兑换点数是所有航空公司中最少的，例如中美往返经济舱仅需60K里程，不足之处是ANA只能出往返票，并且需要2-3个工作日MR转点才能到账↓↓↓
 
+<p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+ <img src="/assets/img/ANA Award Tickets.png" alt="Required Miles for ANA Award Tickets">
+  <meta itemprop="url" content="https://www.blogus123.com/assets/img/ANA Award Tickets.png">
+  <meta itemprop="width" content="1021">
+  <meta itemprop="height" content="382">
+</p>
+
 <p style="margin-bottom:90px"></p>
 
 AC加航可以出单程机票，转点点数即时到账，但是所需MR点数比ANA多一些，往返中美经济舱需75K点。
