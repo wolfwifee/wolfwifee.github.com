@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 用American Express信用卡点数兑换里程机票
+title: 如何用American Express信用卡点数兑换里程机票｜信用卡点数兑换里程机票的流程
 description: "用Amex信用卡的MR点数兑换中美里程机票最为推荐的是Air Canada加拿大航空公司(AC)和ANA全日空航空公司。AC往返需75k，但可出单程里程机票，ANA往返仅需60k，但无法出单程里程票。兑换的时候，除了所需里程之外，还要看好燃油税等各种税费支出。"
 heading: Amex的MR点数兑换中美里程机票
 publish: true
@@ -54,7 +54,7 @@ date: 2016-11-07
 
 <p style="margin-bottom:90px"></p>
 
-<span style="color:#2e8b57">**ANA全日空里程票看这里**</span><br>
+<span style="color:#2e8b57">**兑换ANA全日空里程票看这里**</span><br>
 ① [到ANA官网注册一个会员/常旅客号](https://cam.ana.co.jp/amcmember/amcentry/AMCEntryFacadeEn){:target="_blank" style="color:#0089BC"}，因为必须要先注册成为它的会员／常旅客才能够查询里程票；
 
 ② [登陆ANA账号查询里程票的情况](https://www.ana.co.jp/asw/wws/us/e/){:target="_blank" style="color:#0089BC"}，以确认有符合自己需要的机票（日期，出发地，目的地等）；因为MR点转成ANA的里程后是会过期的，过期时间为36个月，所以先查询有适合的机票，再现用现转较为靠谱。ANA定里程票是不能定单程的。
@@ -85,12 +85,12 @@ date: 2016-11-07
 
 <p style="margin-bottom:90px"></p>
 
-<span style="color:#2e8b57">**AC加航(Air Canada)里程票看这里**</span><br>
-① 注册一个AC加航的会员/常旅客号
+<span style="color:#2e8b57">**兑换AC加航(Air Canada)里程票看这里**</span><br>
+① [注册一个AC加航的会员/常旅客号](https://www3.aeroplan.com/enroll.do){:target="_blank" style="color:#0089BC"}；
 
-② 登陆AC账号查询好里程票的情况，查询的时候不要单看里程哦，还要看好燃油税。
+② [登陆AC账号查询好里程票的情况](https://www3.aeroplan.com/enroll.do){:target="_blank" style="color:#0089BC"}，**查询的时候不要单看里程哦，还要看好燃油税**；
 
-③ AC给家人出里程票不需要先把他们添加为受益人，因此直接登录American Express的的账号，把MR点转给AC就可以了，点数是即时到账的哦。
+③ AC给家人出里程票不需要先把他们添加为受益人，因此[直接登录American Express的的账号，把MR点转给AC就可以了](https://rewards.americanexpress.com/myca/loyalty/us/catalog/view/ptlanding/detail/5629f1b8e4b0b3d3bd79cc91?tier=MR&viewfullsite=y){:target="_blank" style="color:#0089BC"}，点数是即时到账的哦。
 
-⑤ 进入AC网站的点击Use your miles 菜单，用到账的点数为父母兑换中美里程机票。推荐选择UA美联航或CA国航执飞的航班。因为选择UA美联航、CA国航的中美航班是没有燃油费的。
+⑤ [进入AC网站的点击Use your miles 菜单](https://www3.aeroplan.com/log_in.do?SiteArea=adr&title=ae.airDynamicReward.title){:target="_blank" style="color:#0089BC"}，用到账的点数为父母兑换中美里程机票。推荐选择UA美联航或CA国航执飞的航班。因为选择UA美联航、CA国航的中美航班是没有燃油费的。
 
