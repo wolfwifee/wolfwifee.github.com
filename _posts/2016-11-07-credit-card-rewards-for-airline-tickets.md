@@ -55,7 +55,9 @@ date: 2016-11-07
   <meta itemprop="height" content="382">
 </p>
 
-<p style="margin-bottom:90px"></p>
+<p style="margin-bottom:50px"></p>
+
+***
 
 **所以从省钱的角度出发，兑换中美机票的流程是这样的↓↓↓** <br><br> **注册航空公司的会员／常旅客号 -> 查询好航空公司里程票的情况 -> 把MR点转给航空公司 -> 用点数兑换里程票** 
 
