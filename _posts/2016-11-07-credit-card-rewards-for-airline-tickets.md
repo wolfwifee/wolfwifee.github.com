@@ -88,7 +88,7 @@ date: 2016-11-07
 <span style="color:#2e8b57">**兑换AC加航(Air Canada)里程票看这里**</span><br>
 ① [注册一个AC加航的会员/常旅客号](https://www3.aeroplan.com/enroll.do){:target="_blank" style="color:#0089BC"}；
 
-② [登陆AC账号查询好里程票的情况](https://www3.aeroplan.com/log_in.do?SiteArea=adr&title=ae.airDynamicReward.title){:target="_blank" style="color:#0089BC"}，**查询的时候不要单看里程哦，还要看好燃油税**；
+② [登陆AC账号查询好里程票的情况](https://www3.aeroplan.com/adr/AirBooking.do){:target="_blank" style="color:#0089BC"}，**查询的时候不要单看里程哦，还要看好燃油税**；
 
 ③ AC给家人出里程票不需要先把他们添加为受益人，因此[直接登录American Express的的账号，把MR点转给AC就可以了](https://rewards.americanexpress.com/myca/loyalty/us/catalog/view/ptlanding/detail/5629f1b8e4b0b3d3bd79cc91?tier=MR&viewfullsite=y){:target="_blank" style="color:#0089BC"}，点数是即时到账的哦。
 
