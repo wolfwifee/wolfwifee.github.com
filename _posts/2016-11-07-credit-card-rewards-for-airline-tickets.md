@@ -53,10 +53,12 @@ date: 2016-11-07
 
 所以从省钱的角度出发，兑换中美机票的流程是：注册航空公司的会员／常旅客号 -> 查询好航空公司里程票的情况 -> 把MR点转给航空公司 -> 用点数兑换里程票。
 
-<span style="color:#2e8b57">**ANA全日空里程票看这里↓↓↓**</span><br>
-① 到ANA官网注册一个会员/常旅客号，因为必须要先注册成为它的会员／常旅客才能够查询里程票；
+<p style="margin-bottom:90px"></p>
 
-② 登陆ANA账号查询里程票的情况，以确认有符合自己需要的机票（日期，出发地，目的地等）；因为MR点转成ANA的里程后是会过期的，过期时间为36个月，所以先查询有适合的机票，再现用现转较为靠谱。ANA定里程票是不能定单程的。
+<span style="color:#2e8b57">**ANA全日空里程票看这里**</span><br>
+① [到ANA官网注册一个会员/常旅客号](https://cam.ana.co.jp/amcmember/amcentry/AMCEntryFacadeEn){:target="_blank" style="color:#0089BC"}，因为必须要先注册成为它的会员／常旅客才能够查询里程票；
+
+② [登陆ANA账号查询里程票的情况](https://www.ana.co.jp/asw/wws/us/e/){:target="_blank" style="color:#0089BC"}，以确认有符合自己需要的机票（日期，出发地，目的地等）；因为MR点转成ANA的里程后是会过期的，过期时间为36个月，所以先查询有适合的机票，再现用现转较为靠谱。ANA定里程票是不能定单程的。
 
 <p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
  <img src="/assets/img/ANA Award Booking.png" alt="Booking ANA Award Tickets">
@@ -67,7 +69,7 @@ date: 2016-11-07
 
 <p style="margin-bottom:90px"></p>
 
-③ ANA对给非本人出里程票有限制。给父母出里程票，需要先把父母添加为受益人(Award User)。除父母／岳父母之外，还可以给自己的配偶、孩子、兄弟姐妹等买里程票，同样需要先把他们添加为受益人↓↓↓
+③ ANA对给非本人出里程票有限制。给父母出里程票，需要先把父母[添加为受益人(Award User)](https://cam.ana.co.jp/psz/us/amc_us.jsp?index=100&){:target="_blank" style="color:#0089BC"}。除父母／岳父母之外，还可以给自己的配偶、孩子、兄弟姐妹等买里程票，同样需要先把他们添加为受益人↓↓↓
 
 <p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
  <img src="/assets/img/ANA Award User.png" alt="Award User Registration for ANA Award Tickets">
@@ -78,13 +80,13 @@ date: 2016-11-07
 
 <p style="margin-bottom:90px"></p>
 
-④ 登录American Express的的账号，把MR点转给ANA，点数大概需要2-3个工作日到ANA的账号上。
+④ [登录American Express的的账号，把MR点转给ANA](https://rewards.americanexpress.com/myca/loyalty/us/catalog/view/ptlanding/detail/5629f197e4b0b3d3bd79cc6a?tier=MR&viewfullsite=y&intlink=us-mr-s168%7Cweb%7Caw%7Cmr%7Cmrcontrefresh516%7Cfeat2ptstrfr%7Cdefault%7Cth){:target="_blank" style="color:#0089BC"}，点数大概需要2-3个工作日到ANA的账号上。
 
-⑤ 进入ANA网站的点击Award Booking 菜单，用到账的点数为父母兑换中美里程机票。推荐选择UA美联航或CA国航执飞的航班。因为一般说来，选择UA美联航、CA国航的航班是没有燃油税的；而ANA自己执飞的航班燃油税很高，加完各种税费后要$400+，虽然所需的里程(Miles)会少一些，中美往返50k就可以了，但还是明显不划算啊。
+⑤ [进入ANA网站的点击Award Booking 菜单](https://www.ana.co.jp/asw/wws/us/e/){:target="_blank" style="color:#0089BC"}，用到账的点数为父母兑换中美里程机票。推荐选择UA美联航或CA国航执飞的航班。因为一般说来，选择UA美联航、CA国航的航班是没有燃油税的；而ANA自己执飞的航班燃油税很高，加完各种税费后要$400+，虽然所需的里程(Miles)会少一些，中美往返50k就可以了，但还是明显不划算啊。
 
 <p style="margin-bottom:90px"></p>
 
-<span style="color:#2e8b57">**AC加航(Air Canada)里程票看这里↓↓↓**</span><br>
+<span style="color:#2e8b57">**AC加航(Air Canada)里程票看这里**</span><br>
 ① 注册一个AC加航的会员/常旅客号
 
 ② 登陆AC账号查询好里程票的情况，查询的时候不要单看里程哦，还要看好燃油税。
