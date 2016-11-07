@@ -34,6 +34,15 @@ AC加航可以出单程机票，转点点数即时到账，但是所需MR点数�
 
 AC加航和ANA全日空都没有出票费，航班选择恰当的话可以没有燃油费，也就是说，只需要再掏个税钱就可以了。在查询里程机票航班的时候，可以通过切换日期和航班来寻找到无燃油费的机票。各种税费会这样显示↓↓↓
 
+<p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+ <img src="/assets/img/ANA Fees.png" alt="Other fees for ANA Award Tickets">
+  <meta itemprop="url" content="https://www.blogus123.com/assets/img/ANA Fees.png">
+  <meta itemprop="width" content="1021">
+  <meta itemprop="height" content="382">
+</p>
+
+<p style="margin-bottom:90px"></p>
+
 所以从省钱的角度出发，兑换中美机票的流程是：注册航空公司的会员／常旅客号 -> 查询好航空公司里程票的情况 -> 把MR点转给航空公司 -> 用点数兑换里程票。
 
 <span style="color:#2e8b57">**ANA全日空里程票看这里↓↓↓**</span><br>
@@ -41,7 +50,25 @@ AC加航和ANA全日空都没有出票费，航班选择恰当的话可以没有
 
 ② 登陆ANA账号查询里程票的情况，以确认有符合自己需要的机票（日期，出发地，目的地等）；因为MR点转成ANA的里程后是会过期的，过期时间为36个月，所以先查询有适合的机票，再现用现转较为靠谱。ANA定里程票是不能定单程的。
 
+<p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+ <img src="/assets/img/ANA Award Booking.png" alt="Booking ANA Award Tickets">
+  <meta itemprop="url" content="https://www.blogus123.com/assets/img/ANA Award Booking.png">
+  <meta itemprop="width" content="1021">
+  <meta itemprop="height" content="382">
+</p>
+
+<p style="margin-bottom:90px"></p>
+
 ③ ANA对给非本人出里程票有限制。给父母出里程票，需要先把父母添加为受益人(Award User)。除父母／岳父母之外，还可以给自己的配偶、孩子、兄弟姐妹等买里程票，同样需要先把他们添加为受益人↓↓↓
+
+<p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+ <img src="/assets/img/ANA Award User.png" alt="Award User Registration for ANA Award Tickets">
+  <meta itemprop="url" content="https://www.blogus123.com/assets/img/ANA Award User.png">
+  <meta itemprop="width" content="1021">
+  <meta itemprop="height" content="382">
+</p>
+
+<p style="margin-bottom:90px"></p>
 
 ④ 登录American Express的的账号，把MR点转给ANA，点数大概需要2-3个工作日到ANA的账号上。
 
