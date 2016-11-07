@@ -34,7 +34,14 @@ date: 2016-11-07
 <p style="margin-bottom:90px"></p>
 
 <span style="color:#2e8b57">**AC加航可以出单程机票，转点点数即时到账**</span><br>
-但是所需MR点数比ANA多一些，往返中美经济舱需75K点。
+但是所需MR点数比ANA多一些，往返中美经济舱需75K点，单程则为37.5K，为往返所需里程的一半。
+
+<p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+ <img src="/assets/img/ACAwardTickets.png" alt="Required Miles for AC Award Tickets">
+  <meta itemprop="url" content="https://www.blogus123.com/assets/img/ACAwardTickets.png">
+  <meta itemprop="width" content="1021">
+  <meta itemprop="height" content="382">
+</p>
 
 <p style="margin-bottom:90px"></p>
 
