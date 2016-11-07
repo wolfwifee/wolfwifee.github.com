@@ -17,11 +17,13 @@ date: 2016-11-07
 
 <p style="margin-bottom:90px"></p>
 
-＊＊兑换中美机票，比较推荐转点给的航空公司是AC加拿大航空公司和ANA全日空航空公司，二者的兑换比例都是1000 MR＝1000 Miles。＊＊
+**兑换中美机票，比较推荐转点给的航空公司是AC加拿大航空公司和ANA全日空航空公司，二者的兑换比例都是1000 MR＝1000 Miles。**
 
 <p style="margin-bottom:90px"></p>
 
-ANA全日空所需的兑换点数是所有航空公司中最少的，例如中美往返经济舱仅需60K里程，不足之处是ANA只能出往返票，并且需要2-3个工作日MR转点才能到账↓↓↓
+<span style="color:#2e8b57">**ANA全日空所需的兑换点数是所有航空公司中最少的**</span><br>
+
+例如中美往返经济舱仅需60K里程，不足之处是ANA只能出往返票，并且需要2-3个工作日MR转点才能到账↓↓↓
 
 <p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
  <img src="/assets/img/ANA Award Tickets.png" alt="Required Miles for ANA Award Tickets">
