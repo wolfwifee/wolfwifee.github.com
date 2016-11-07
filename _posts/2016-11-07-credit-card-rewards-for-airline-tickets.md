@@ -13,7 +13,7 @@ date: 2016-11-07
 
 <p style="margin-bottom:70px"></p>
 
-众所周知，American Express的MR点数最最为合算的用法是转点(Transfer Points)到航空公司定里程机票，可以转点给的航空公司包括加航、新航、全日空、英航、亚万、达美、维珍航空等，[转点操作可以在Amex的官网上进行](https://rewards.americanexpress.com/myca/loyalty/us/catalog/view/ptlanding/?tier=MR&viewfullsite=y&intlink=us-mr-s168|web|aw|mr|mrcontrefresh516|feat2ptstrfr|default|th){:target="_blank" style="color:#0089BC"}。
+众所周知，American Express的MR点数最最为合算的用法是转点(Transfer Points)到航空公司定里程机票，可以转点给的航空公司包括加航、新航、全日空、英航、亚万、达美、维珍航空等，[转点操作可以在Amex的官网上进行](https://rewards.americanexpress.com/myca/loyalty/us/catalog/view/ptlanding/?tier=MR){:target="_blank" style="color:#0089BC"}。
 
 <p style="margin-bottom:90px"></p>
 
