@@ -22,7 +22,6 @@ date: 2016-11-07
 <p style="margin-bottom:90px"></p>
 
 <span style="color:#2e8b57">**ANA全日空所需的兑换点数是所有航空公司中最少的**</span><br>
-
 例如中美往返经济舱仅需60K里程，不足之处是ANA只能出往返票，并且需要2-3个工作日MR转点才能到账↓↓↓
 
 <p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
@@ -34,11 +33,14 @@ date: 2016-11-07
 
 <p style="margin-bottom:90px"></p>
 
-AC加航可以出单程机票，转点点数即时到账，但是所需MR点数比ANA多一些，往返中美经济舱需75K点。
+<span style="color:#2e8b57">**AC加航可以出单程机票，转点点数即时到账**</span><br>
+但是所需MR点数比ANA多一些，往返中美经济舱需75K点。
+
+<p style="margin-bottom:90px"></p>
 
 此外，一张机票的总费用＝MR点数＋出票费＋燃油税＋税，所以合算与否，不能单看需要的MR点。有的机票算下来，除MR点数之外，其他费用加起来还需要掏个$400+，非常的离谱，因为在打折季直接买中美机票往返也就400多刀。
 
-AC加航和ANA全日空都没有出票费，航班选择恰当的话可以没有燃油费，也就是说，只需要再掏个税钱就可以了。在查询里程机票航班的时候，可以通过切换日期和航班来寻找到无燃油费的机票。各种税费会这样显示↓↓↓
+**AC加航和ANA全日空都没有出票费，航班选择恰当的话可以没有燃油费，也就是说，只需要再掏个税钱就可以了**。在查询里程机票航班的时候，可以通过切换日期和航班来寻找到无燃油费的机票。各种税费会这样显示↓↓↓
 
 <p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
  <img src="/assets/img/ANA Fees.png" alt="Other fees for ANA Award Tickets">
