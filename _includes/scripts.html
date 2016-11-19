@@ -22,15 +22,18 @@ http://www.apache.org/licenses/LICENSE-2.0.html
   $(document).ready(function(){var dropcaps=document.querySelectorAll(".dropcap");window.Dropcap.layout(dropcaps,2);var nav=responsiveNav(".nav-collapse");$(".time").text(function(index,value){return Math.round(parseFloat(value));});});
 </script>
 {% if site.disqus and page.layout == "post" %}
-<script type="text/javascript">
-    var disqus_shortname = '{{ site.disqus }}';
-    var url_parts = window.location.href.split("?");
-    var disqus_url = url_parts[0];(function() {
-	  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-	  dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-	   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-      })();
+<script>
+var disqus_config = function () {
+this.page.url = {{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }};  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = {{ page.url }}; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//blogus123.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
 </script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
 {% if site.google_analytics %} {% include google_analytics.html %} {% endif %}
