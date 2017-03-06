@@ -157,7 +157,7 @@ ID Number
 <p style="margin-bottom:90px;text-align:right;font-size:medium">结婚证第三页</p>
 
 婚姻法规定，要求结婚的男女双方必须亲自到婚姻登记机关进行结婚登记。符合本法规定的，予以登记，发给结婚证。取得结婚证，即确立夫妻关系。<br>
-The marriage law has prescribed that the man and the woman who want to get married must go to the marriage registration office to make a marriage registration. In line with the provisions of this law, be registered, issued a marriage certificate. The husband-and-wife relationship shall be established as soon as they acquire the marriage certificates.
+The marriage law has prescribed that the man and the woman who wish to be married must go to the marriage registration office to register. A marriage certificate shall be issued after registration in line with the provisions of this law. The husband-and-wife relationship shall be established as soon as they acquire the marriage certificates.
 
 <p style="margin-bottom:90px"></p>
 
