@@ -6,8 +6,8 @@ description: >-
 heading: 结婚证的翻译及公证
 publish: true
 published: true
-datePublished: {}
-dateModified: {}
+datePublished: 2016-04-01
+date: 2017-03-01
 ---
 
 <span class="dropcap">U</span>SCIS说了，各种申请中，涉及到需要提交非英文的证明材料，都必须一并提交一份公证过的英文翻译件：
