@@ -6,7 +6,7 @@ heading: 绿卡到底有多远
 publish: true
 published: true
 datePublished: 2016-10-27T00:00:00.000Z
-date: 2016-10-27
+date: 2017-03-06
 ---
 
 <span class="dropcap">请</span>牢记，对大多数人来说，绿卡申请是一场长达数年的战役，具体时间因人而已，因为整个过程中，意外情况可能层出不穷，从而导致进度发生延迟。
@@ -46,7 +46,7 @@ EB-2和EB-3绿卡的重点在于雇主/公司的支持( Sponsoring an Immigrant 
 
 <p style="margin-bottom:90px"></p>
 
-**美国国务院(State Department)会在每个月的中旬公布下个月的绿卡排期情况，当前最新的排期时间是到2016年11月份中，中国大陆EB2到2012年7月15日，EB3到2013年4月15日，EB3比EB2靠前哦。**
+**美国国务院(State Department)会在每个月的中旬公布下个月的绿卡排期情况，当前公布的最新的排期时间是到2017年3月份，中国大陆EB2到2012年12月15日，EB3到2014年3月15日，EB3比EB2靠前哦。**
 
 <p style="margin-bottom:90px"></p>
 
