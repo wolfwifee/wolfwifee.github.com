@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 解读美国绿卡申请流程及排期。绿卡排期要等待多久。如何获得工作绿卡？EB1，EB2，EB3，EB4和EB5
-description: "所谓绿卡排期只是针对EB-2和EB-3分类，需等待2-6年，可用H1-B，L1B或者L2维持身份。EB-2和EB-3申请期间如果更换工作，可能导致绿卡申请从头再来。EB-1，EB-4和EB-5分类无需等待，可直接提交绿卡申请。"
-heading: 绿卡到底有多远
+title: 解读美国绿卡申请流程及排期。如何获得工作绿卡？EB1，EB2，EB3，EB4和EB5
+description: 所谓绿卡排期只是针对EB-2和EB-3分类，需等待2-6年，可用H1-B，L1B或者L2维持身份。EB-2和EB-3申请期间如果更换工作，可能导致绿卡申请从头再来。EB-1，EB-4和EB-5分类无需等待，可直接提交绿卡申请。
+heading: 绿卡排期要等待多久
 publish: true
 published: true
 datePublished: 2016-10-27T00:00:00.000Z
@@ -19,7 +19,7 @@ date: 2017-03-06
 
 <p style="margin-bottom:90px"></p>
 
-<span style="color:#2e8b57">**这里我们主要聊聊工作绿卡**</span><br>
+<span style="color:#2e8b57">**这里我们主要聊聊工作绿卡及绿卡排期从什么时候开始算**</span><br>
 工作绿卡(Employment Based Green Card)，顾名思义给予在美工作人士的绿卡。工作绿卡分为EB-1，EB-2，EB-3，EB-4和EB-5。其中，EB-5是投资移民，EB-4是给宗教人士和在美军部队服役或美国政府海外机构的工作人员等特殊职业的，EB-1给杰出科研人才的，EB-2给硕士或者博士，或者本科但拥有至少五年相关工作经验的人士的，余下的在美工作人士就归于EB-3了。
 
 <p style="margin-bottom:90px"></p>
