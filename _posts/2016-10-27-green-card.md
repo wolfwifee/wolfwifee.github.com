@@ -35,7 +35,7 @@ EB-2和EB-3绿卡的重点在于雇主/公司的支持( Sponsoring an Immigrant 
 
 <p style="margin-bottom:90px"></p>
 
-<span style="color:#2e8b57">**如果申请绿卡期间如果想要更换工作更换雇主，那么：**</span><br>
+<span style="color:#2e8b57">**等待绿卡排期期间如果想要跳槽更换工作，那么：**</span><br>
 ①PERM阶段：前面说了，PERM是发放给雇主的雇佣外籍劳工许可，因此，新的雇主需要重新为你申请PERM，也就是一切从头再来。
 
 ②I-140阶段：I-140的申请是在雇主获得了PERM的基础上提交的，也就是说它是基于特定雇主的特定岗位的，因此在这个期间，如果更换了雇主，甚至雇主没变只是更换了工作岗位，你的I-140即使已经获得了批准，也会因此失效。这也就是说，此阶段如果跳槽，绿卡申请还是要从头再来，即由新雇主为你重新申请PERM和I-140。唯一不同的是，如果跳槽前原雇主为你提交的I-140已经获得了批准，那么在你的新1-140申请获准后，可以继续沿用原来的优先日期。
@@ -46,7 +46,7 @@ EB-2和EB-3绿卡的重点在于雇主/公司的支持( Sponsoring an Immigrant 
 
 <p style="margin-bottom:90px"></p>
 
-绿卡排期是无法预测的，有时是EB2比较快，有时是EB3比较快，但有时甚至会发生倒退，全凭USCIS的心情，以及Trump的心情。**美国国务院(State Department)会在每个月的中旬公布下个月的绿卡排期情况，当前公布的最新的排期时间是到2017年3月份，中国大陆EB2到2012年12月15日，EB3到2014年3月15日，EB3比EB2靠前哦。**
+绿卡排期是无法预测的，有时是EB2比较快，有时是EB3比较快，但有时甚至会发生倒退，全凭USCIS的心情，以及Trump的心情。**美国国务院(State Department)会在每个月的中旬公布下个月的绿卡排期情况，［点这里到官网查询］(https://travel.state.gov/content/visas/en/law-and-policy/bulletin/2017/visa-bulletin-for-march-2017.html){:target="_blank" style="color:#0089BC"}。当前公布的最新的排期时间是到2017年3月份，中国大陆EB2到2012年12月15日，EB3到2014年3月15日，EB3比EB2靠前哦。**
 
 <p style="margin-bottom:90px"></p>
 
