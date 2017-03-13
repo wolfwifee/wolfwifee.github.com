@@ -52,6 +52,18 @@ EB-2和EB-3绿卡的重点在于雇主/公司的支持( Sponsoring an Immigrant 
 
 <p style="margin-bottom:90px"></p>
 
+<span style="color:#2e8b57">**那在等待绿卡排期期间是否可以回国呢？**</span><br>
+答案是可以回国：
+
+①对于持H1和L1工作签证的人来说，因为这两类签证允许有移民倾向，因此回国后，无论是去美国大使馆申请／续签签证还是返回时使用签证重新入境美国，理论上都不会受到绿卡申请的影响。但是为了防止意外情况出现，很多移民律师也会建议H1和L1签证持有者在离开美国国境之前先申请一份回美证(英文叫Advance Parole, AP)在手，万一申请H或L签证失败，还可以使用AP返回美国。
+
+②对于其他类签证，在离开美国国境之前必须申请回美证(英文叫Advance Parole, AP)，之后使用AP才可以返回美国。
+
+回美证申请表格是I-131，申请费用为$565。
+[USCIS官网I-131表(Application for Travel Document)页面链接点这里](https://www.uscis.gov/i-131){:target="_blank" style="color:#0089BC"}
+
+<p style="margin-bottom:90px"></p>
+
 <span style="color:#2e8b57">**EB-1杰出人才**</span><br>
 既然被定义为杰出人才，待遇自然比EB-2和EB-3优厚：可直接提交I-485，即EB-1申请绿卡无PERM和I-140阶段，也不需等待排期。
 
