@@ -1,19 +1,12 @@
 ---
 layout: post
 title: 从中国汇款到美国：对比票汇、电汇、支付宝国际汇款和西联汇款。3520表格申报汇款
-description: 对比电汇、票汇、支付宝国际、西联汇款和银行卡国外ATM机直接取现各种等从中国汇款到美国的方法，包括手续费，汇率等。大金额汇款通常情况下汇票汇款最经济，而使用支付宝国际汇款需注意汇率差距，有可能高于银行电汇。银行卡境外ATM机直接取钱适合小金额提现。全年汇款金额总计超10万美金需要提交3520表格给IRS。
-heading: 各种招数汇款到美国
+description: 国际汇款手续费，汇款方式，到账时间对比。介绍电汇、票汇、支付宝国际、西联汇款和银行卡国外ATM机直接取现各种等从中国汇款到美国的方法，汇率，限额等。关注支付宝国际汇款。
 publish: true
 published: true
 datePublished: 2016-03-22
-dateModified: 2016-03-22
+dateModified: 2017-03-19
 ---
-
-
-
-
-
-
 
 
 
@@ -230,3 +223,8 @@ P.O.Box 409101<br>
 Ogden, Utah 84409
 
 <p style="margin-bottom:70px"></p>
+<p itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">评分：<span itemprop="ratingValue">4.8</span>分，已有<span itemprop="ratingCount">10</span>人给我们写邮件打分
+      
+      <meta itemprop="bestRating" content="5">
+      <meta itemprop="worstRating" content="1">
+</p>
