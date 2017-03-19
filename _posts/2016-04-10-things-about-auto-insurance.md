@@ -125,8 +125,8 @@ Geico说是没有local agent也没所谓，geico 就 a phone call away. 但实�
 <p style="margin-bottom:90px"></p>
 
 **<span style="color:#2e8b57">Costco车险</span>**
-前段时间刚知道，向来画风清奇的Costco除了买车，也卖车险。
 
+前段时间刚知道，向来画风清奇的Costco除了买车，也卖车险。
 准确说来Costco车险是由一家叫Ameriprise的保险公司提供的，据说驾驶记录很长而且没有不良记录的话，就会很便宜。如果你还是Costco的黑卡会员，还有多20元的折扣。
 
 <p style="margin-bottom:90px"></p>
