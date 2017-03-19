@@ -6,7 +6,7 @@ heading: 车险！车险！车险！
 publish: true
 published: true
 datePublished: 2016-04-18T00:00:00.000Z
-date: 2016-11-03
+date: 2017-03-19
 ---
 
 <span class="dropcap">重</span>要的事情说三遍。在美帝生活离不开车，而开车就不能没有车辆保险。因为裸奔的话，一旦被抓，驾照吊销，车辆注册吊销，好几百刀甚至上千刀的罚单，驾驶记录留污点，未来买车险保费大涨，还可能未来3年内你都需要车险公司为你提交SR-22给DMV。如果裸奔期间还造成了事故，那很可能要进去一段时间了。
@@ -124,6 +124,17 @@ Geico说是没有local agent也没所谓，geico 就 a phone call away. 但实�
 
 <p style="margin-bottom:90px"></p>
 
+**<span style="color:#2e8b57">Costco车险</span>**
+前段时间刚知道，向来画风清奇的Costco除了买车，也卖车险。
+
+准确说来Costco车险是由一家叫Ameriprise的保险公司提供的，据说驾驶记录很长而且没有不良记录的话，就会很便宜。如果你还是Costco的黑卡会员，还有多20元的折扣。
+
+<p style="margin-bottom:90px"></p>
+**<span style="color:#2e8b57">车险比价网站：The Zebra </span>**
+
+这里Wolfwifee要推荐一个很好的美国汽车保险比价网站：[The Zebra](https://www.thezebra.com/){:target="_blank" style="color:#0089BC"}。这个站点是小牛队老板马克库班投资的，很有眼光哦。这个站点可以在线输入你的车辆信息和zipcode然后就罗列出各个保险公司的价格和基本信息，针对你的个人信息给你做定制化的车险产品推荐。他们的方式不是自己卖汽车保险而是给汽车保险公司送Lead信息。想买汽车保险的朋友快去试一试吧，一个车险搜索引擎技术产品，好东西一定要和大家分享哦。 
+
+<p style="margin-bottom:90px"></p>
 **<span style="color:#2e8b57">车险省钱之道</span>**
 
 除了货比三家之外，许多人反馈，同一家公司车险renew的时候，即使投保期间从未发生过事故，常常会被以reevaluate作为理由涨价。不过，如果涨价是因为Coverage变了那另说。
@@ -159,7 +170,7 @@ Title：你对这辆车所有权的证明，这个要在家里藏好哦。
 
 <p style="margin-bottom:75px"></p>
 
-<p itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">评分：<span itemprop="ratingValue">4.9</span>分，已有<span itemprop="ratingCount">87</span>人打分
+<p itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">评分：<span itemprop="ratingValue">4.9</span>分，已有<span itemprop="ratingCount">93</span>人打分
       
       <meta itemprop="bestRating" content="5">
       <meta itemprop="worstRating" content="1">
