@@ -2,6 +2,7 @@
 layout: post
 title: 从中国汇款到美国：对比票汇、电汇、支付宝国际汇款和西联汇款。3520表格申报汇款
 description: 国际汇款手续费，汇款方式，到账时间对比。介绍电汇、票汇、支付宝国际、西联汇款和银行卡国外ATM机直接取现各种等从中国汇款到美国的方法，汇率，限额等。关注支付宝国际汇款。
+-heading: 各种招数汇款到美国
 publish: true
 published: true
 datePublished: 2016-03-22
