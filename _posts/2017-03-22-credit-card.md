@@ -37,7 +37,7 @@ wolfwifee自己迄今为止已经有超过10张信用卡在手了，其中绝大
 
 <span style="color:#2e8b57">**Hard Pull 和 Soft Pull**</span><br>
 
-▓**Hard Pull**也叫作Hard Inquiry，在美国，有三大信用局在记录着每个人的信用情况：Experian、Equifax和TransUnion。每当接到信用卡账户开户申请的时候，银行／信用卡公司就会向信用局调取申请人的信用报告(Credit Report)，这个动作就叫作Hard Pull。**每受到一次Hard Pull，无论最后是否成功申请到信用卡，你的信用分数都会降低一些，而这个Hard Pull记录也将会在你的个人信用报告里会保存两年之久。**
+▓**「Hard Pull」**也叫作Hard Inquiry，在美国，有三大信用局在记录着每个人的信用情况：Experian、Equifax和TransUnion。每当接到信用卡账户开户申请的时候，银行／信用卡公司就会向信用局调取申请人的信用报告(Credit Report)，这个动作就叫作Hard Pull。**每受到一次Hard Pull，无论最后是否成功申请到信用卡，你的信用分数都会降低一些，而这个Hard Pull记录也将会在你的个人信用报告里会保存两年之久。**
 
 Hard Pull需要得到申请人的授权，而我们申请信用卡的时候就意味着我们同意银行／信用卡机构Hard Pull我们的信用报告。
 
@@ -45,7 +45,7 @@ Hard Pull需要得到申请人的授权，而我们申请信用卡的时候就�
 
 **无论如何，一旦申请信用卡，无论成功与否，都会受到Hard Pull，因此还是尽量选择握比较大的信用卡来申请，以避免白白的浪费一个Hard Pull。**
 
-▓**Soft Pull是另外一种查询调取信用报告的方式，它不会对你的信用分数产生影响。**Soft Pull不需要得到授权就可进行，通常发生在你租房或应聘工作的时候，房东或雇主Soft Pull你的信用报告作为背景调查。
+▓**「Soft Pull」是另外一种查询调取信用报告的方式，它不会对你的信用分数产生影响。**Soft Pull不需要得到授权就可进行，通常发生在你租房或应聘工作的时候，房东或雇主Soft Pull你的信用报告作为背景调查。
 
 信用卡申请基本都是Hard Pull了，其他的不太确定，最好在提出申请前，问清楚是Hard Pull还是Soft Pull。
 
