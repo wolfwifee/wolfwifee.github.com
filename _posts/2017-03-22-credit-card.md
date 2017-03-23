@@ -19,15 +19,15 @@ date: 2017-03-22
 
 ▓**「开卡奖励」**只能够在信用卡开卡的时候获得一次，是指在信用卡开卡之后的三个月内，用信用卡消费满xxxx美金，银行／信用卡公司就会返还给你xxx美金。有些信用卡的开卡奖励可以通过反复的开卡关卡多拿几次，只要满足一定的时间跨度，但有些开卡奖励一个人一辈子只能拿一次，比如运通公司(American Express，简称Amex)的信用卡。
 
-▓**「最高开卡奖励」**是指一张信用卡给出过的最高的开卡奖励。因为信用卡时不时会在短时间内提高它的开卡奖励，类似于商场的促销活动，比如American Express Platinum信用卡，开卡奖励平日里是4万点的MR点数，但是最高offer可以达到10万点。MR点数可以用来兑换机票、酒店，[购买Gift Card](https://rewards.americanexpress.com/myca/loyalty/us/catalog/giftcardhub?mrlinknav=header-giftcards){:target="_blank" style="color:#0089BC"}，或者直接转成信用卡的Credit当现金用。MR点数用来兑换机票的价值是最大的，兑换一张中美往返商务舱的机票是8万点到9万点，开一张这个卡一份中美往返的机票就到手了，还是商务舱哦。兑换方法可以参考[《Amex的MR点数兑换中美里程机票》](https://www.blogus123.com/credit-card-rewards-for-airline-tickets/){:target="_blank" style="color:#0089BC"}这篇文章。
+▓**「最高开卡奖励」**是指一张信用卡给出过的最高的开卡奖励。因为信用卡时不时会在短时间内提高它的开卡奖励，类似于商场的促销活动，比如[American Express Platinum信用卡](https://www.americanexpress.com/us/credit-cards/card/platinum/){:target="_blank" style="color:#0089BC"}，开卡奖励平日里是4万点的MR点数，但是最高offer可以达到10万点。MR点数可以用来兑换机票、酒店，[购买Gift Card](https://rewards.americanexpress.com/myca/loyalty/us/catalog/giftcardhub?mrlinknav=header-giftcards){:target="_blank" style="color:#0089BC"}，或者直接转成信用卡的Credit当现金用。MR点数用来兑换机票的价值是最大的，兑换一张中美往返商务舱的机票是8万点到9万点，开一张这个卡一份中美往返的机票就到手了，还是商务舱哦。兑换方法可以参考[《Amex的MR点数兑换中美里程机票》](https://www.blogus123.com/credit-card-rewards-for-airline-tickets/){:target="_blank" style="color:#0089BC"}这篇文章。
 
 **所以，当对某张信用卡感兴趣的时候，网上Google一下这张卡的最高开卡奖励，尽量在最高开卡奖励出现的时候进行申请。**
 
-▓**「消费返现」**则是指每次使用信用卡消费后，银行／信用卡公司都会把一定百分比的消费金额返还给你，有的信用卡是在满一年后把返现一起打入你的账户，比如Discover，有的则是实时就就进入账户，比如American Express旗下的信用卡。与只能获得一次的开卡奖励不同，消费返现是可以一直拿下去的
+▓**「消费返现」**则是指每次使用信用卡消费后，银行／信用卡公司都会把一定百分比的消费金额返还给你，有的信用卡是在满一年后把返现一起打入你的账户，比如Discover，有的则是实时就进入账户，比如American Express旗下的信用卡。与只能获得一次的开卡奖励不同，消费返现是可以一直拿下去的。
 
 <p style="margin-bottom:90px"></p>
 
-举个栗子，Amex 的 Blue Cash Everyday 信用卡，开卡后的三个月消费满$1000就返给你$250，并且当使用这张卡在超市里消费的时候，还可以获得3%的返现。这就是说，开卡了以后，用这张卡花出去1000刀后，Amex就会还给你250刀，外加使用这张卡到超市里买东西。想想看，这1000刀如果你是用现金消费的，花出去就花出去了，但是如果是使用信用卡的话，可以拿回250刀＋30刀哦。
+举个栗子，Amex 的 Blue Cash Everyday 信用卡，开卡后的三个月消费满$1000就返给你$250，并且当使用这张卡在超市里消费的时候，还可以获得3%的返现。这就是说，开卡了以后，用这张卡花出去1000刀后，Amex就会还给你250刀，，外加这1000刀中凡是用于超市购物消费的部分还可以再拿回3%。想想看，这1000刀如果你是用现金消费的，花出去就花出去了，但是如果是使用信用卡的话，可以拿回250刀＋30刀哦。
 
 wolfwifee自己迄今为止已经有超过10张信用卡在手了，其中绝大部分是为了拿开卡Offer/Bonus而办的，平日使用的就那么两三张。
 
