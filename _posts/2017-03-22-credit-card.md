@@ -17,9 +17,9 @@ date: 2017-03-22
 
 **<span style="color:#2e8b57">✓ 开卡奖励＋消费返现＋积累信用记录 ＝ 信用卡你值得拥有</span><br>**
 
-**「开卡奖励」**只能在信用卡开卡的时候获得一次，是指在信用卡开卡之后的三个月内，用信用卡消费满xxxx美金，银行／信用卡公司就会返还给你xxx美金。有些信用卡的开卡奖励可以通过反复的开卡关卡多拿几次，只要满足一定的时间跨度，但有些开卡奖励一个人一辈子只能拿一次，比如运通公司(American Express，简称Amex)的信用卡。
+**「开卡奖励」**只能够在信用卡开卡的时候获得一次，是指在信用卡开卡之后的三个月内，用信用卡消费满xxxx美金，银行／信用卡公司就会返还给你xxx美金。有些信用卡的开卡奖励可以通过反复的开卡关卡多拿几次，只要满足一定的时间跨度，但有些开卡奖励一个人一辈子只能拿一次，比如运通公司(American Express，简称Amex)的信用卡。
 
-**最高开卡奖励**－信用卡有时候会在短时间内提高它的开卡奖励，类似于商场的促销活动，比如American Express Platinum信用卡，开卡奖励平日里是4万点的MR点数，但是最高offer可以达到10万点。MR点数可以用来兑换机票、酒店，[购买Gift Card](https://rewards.americanexpress.com/myca/loyalty/us/catalog/giftcardhub?mrlinknav=header-giftcards){:target="_blank" style="color:#0089BC"}，或者直接转成信用卡的Credit当现金用。MR点数用来兑换机票的价值是最大的，兑换一张中美往返商务舱的机票是8万点到9万点，开一张这个卡一份中美往返的机票就到手了，还是商务舱哦。兑换方法可以参考[《Amex的MR点数兑换中美里程机票》](https://www.blogus123.com/credit-card-rewards-for-airline-tickets/){:target="_blank" style="color:#0089BC"}这篇文章。
+**「最高开卡奖励」**是指信用卡有时候会在短时间内提高它的开卡奖励，类似于商场的促销活动，比如American Express Platinum信用卡，开卡奖励平日里是4万点的MR点数，但是最高offer可以达到10万点。MR点数可以用来兑换机票、酒店，[购买Gift Card](https://rewards.americanexpress.com/myca/loyalty/us/catalog/giftcardhub?mrlinknav=header-giftcards){:target="_blank" style="color:#0089BC"}，或者直接转成信用卡的Credit当现金用。MR点数用来兑换机票的价值是最大的，兑换一张中美往返商务舱的机票是8万点到9万点，开一张这个卡一份中美往返的机票就到手了，还是商务舱哦。兑换方法可以参考[《Amex的MR点数兑换中美里程机票》](https://www.blogus123.com/credit-card-rewards-for-airline-tickets/){:target="_blank" style="color:#0089BC"}这篇文章。
 
 **所以，当对某张信用卡感兴趣的时候，网上Google一下这张卡的最高开卡奖励，尽量在最高开卡奖励出现的时候进行申请。**
 
