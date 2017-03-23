@@ -16,6 +16,7 @@ date: 2017-03-22
 <p style="margin-bottom:90px"></p>
 
 <span style="color:#2e8b57">**开卡奖励＋消费返现＋积累信用记录 ＝ 信用卡你值得拥有**</span><br>
+
 **开卡奖励**－是指在信用卡开卡之后的三个月内，用信用卡消费满xxxx美金，银行／信用卡公司就会返还给你xxx美金。开卡奖励只能在信用卡开卡的时候获得一次。有些信用卡的开卡奖励可以通过反复的开卡关卡多拿几次，只要满足一定的时间跨度，但有些开卡奖励一个人一辈子只能拿一次，比如运通公司(American Express，简称Amex)的信用卡。
 
 说到这里就要提及一下“**最高开卡奖励**”这个词，信用卡有时候会在短时间内提高它的开卡奖励，类似于商场的促销活动，比如American Express Platinum信用卡，开卡奖励平日里是4万点的MR点数，但是最高offer可以达到10万点。MR点数可以用来兑换机票、酒店，[购买Gift Card](https://rewards.americanexpress.com/myca/loyalty/us/catalog/giftcardhub?mrlinknav=header-giftcards){:target="_blank" style="color:#0089BC"}，或者直接转成信用卡的Credit当现金用。MR点数用来兑换机票的价值是最大的，兑换一张中美往返商务舱的机票是8万点到9万点，开一张这个卡一份中美往返的机票就到手了，还是商务舱哦。兑换方法可以参考[《Amex的MR点数兑换中美里程机票》](https://www.blogus123.com/credit-card-rewards-for-airline-tickets/){:target="_blank" style="color:#0089BC"}这篇文章。
@@ -37,21 +38,23 @@ wolfwifee自己迄今为止已经有超过10张信用卡在手了，其中绝大
 <p style="margin-bottom:90px"></p>
 
 <span style="color:#2e8b57">**Hard Pull 和 Soft Pull**</span><br>
-Hard Pull也叫作Hard Inquiry，在美国，有三大信用局在记录着每个人的信用情况：Experian、Equifax和TransUnion。每当接到信用卡账户开户申请的时候，银行／信用卡公司就会向信用局调取申请人的信用报告(Credit Report)，这个动作就叫作Hard Pull。每受到一次Hard Pull，无论最后是否成功申请到信用卡，你的信用分数都会降低一些，而这个Hard Pull记录也将会在你的个人信用报告里会保存两年之久。
 
-Hard Pull需要得到申请人的授权，而我们申请信用卡的时候就意味着我们同意银行／信用卡机构Hard Pull我们的信用报告。
+**Hard Pull**也叫作Hard Inquiry，在美国，有三大信用局在记录着每个人的信用情况：Experian、Equifax和TransUnion。每当接到信用卡账户开户申请的时候，银行／信用卡公司就会向信用局调取申请人的信用报告(Credit Report)，这个动作就叫作Hard Pull。每受到一次Hard Pull，无论最后是否成功申请到信用卡，你的信用分数都会降低一些，而这个Hard Pull记录也将会在你的个人信用报告里会保存两年之久。
 
-偶尔的Hard Pull对信用分数的影响并不大，对信用分数伤害较大的是长期受到大量的Hard Pull，因为这很可能意味着这个人点财务状况出现了问题。
+**Hard Pull**需要得到申请人的授权，而我们申请信用卡的时候就意味着我们同意银行／信用卡机构Hard Pull我们的信用报告。
 
-无论如何，一旦申请信用卡，无论成功与否，都会受到Hard Pull，因此还是尽量选择握比较大的信用卡来申请，以避免白白的浪费一个Hard Pull。
+偶尔的**Hard Pull**对信用分数的影响并不大，对信用分数伤害较大的是长期受到大量的**Hard Pull**，因为这很可能意味着这个人点财务状况出现了问题。
 
-Soft Pull是另外一种调取信用报告的方式，它不会对你的信用分数产生影响。Soft Pull不需要得到授权就可进行，通常发生在你租房或应聘工作的时候，房东或雇主Soft Pull你的信用报告作为背景调查。
+**无论如何，一旦申请信用卡，无论成功与否，都会受到Hard Pull，因此还是尽量选择握比较大的信用卡来申请，以避免白白的浪费一个Hard Pull。**
+
+**Soft Pull**是另外一种查询调取信用报告的方式，它不会对你的信用分数产生影响。**Soft Pull不需要得到授权就可进行，通常发生在你租房或应聘工作的时候，房东或雇主Soft Pull你的信用报告作为背景调查。
 
 信用卡申请基本都是Hard Pull了，其他的不太确定，最好在提出申请前，问清楚是Hard Pull还是Soft Pull。
 
 <p style="margin-bottom:90px"></p>
 
 <span style="color:#2e8b57">**第一张信用卡总是最难的**</span><br>
+
 既然是申请第一张信用卡，意味申请人目前还是零信用记录，因此成功率很低，尤其是那些开卡奖励／消费返现很好的信用卡。因为银行／信用卡公司没有你的过往信用记录可以参考，所以申办第一张信用卡的时候，多半会要求申请人亲自去银行办理，并要求提供各种资料，包括护照，雇佣证明，最近几个月的银行对账单(Statements)，收入证明(Pay Stubs)，当前住址的水电费账单(Utility Bills)等等。每个银行审批信用卡申请的要求可能不太相同，最好的办法打电话到银行的分行，或亲自去银行找一个客户经理(customer manager)说明自己的情况，问清楚是否能够办理信用卡以及办理所需要提供的材料。
 
 BOA(Bank of American)或Wellsfargo是新手比较有机会拿到信用卡的银行，但最好亲自前往找它们的客服经理聊一聊，问清楚哪张卡通过的几率很大。PS：BOA给额度比较大方，一般情况下会给你年收入10%的信用额度。
