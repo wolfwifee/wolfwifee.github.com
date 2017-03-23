@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 美国信用卡攻略，申请指南，开卡奖励，怎么还款，美国运通卡（amex),chase,discover 怎么样
-description: 信用卡关系信用记录，在美国申请信用卡的指南与攻略，包括信用额度，各家信用卡公司的信用卡推荐与比较。Hard Pull和Soft Pull的区别。
+title: 美国信用卡攻略，申请指南，信用卡开卡奖励，怎么还款，美国运通卡(Amex),Chase,Discover怎么样
+description: 信用卡关系信用记录，在美国申请信用卡的指南与攻略，包括信用额度，申请顺序，各家信用卡公司的信用卡推荐与比较。Hard Pull和Soft Pull的区别。
 heading: 美国信用卡申请白皮书
 publish: true
 published: true
