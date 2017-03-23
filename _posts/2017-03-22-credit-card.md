@@ -41,13 +41,13 @@ wolfwifee自己迄今为止已经有超过10张信用卡在手了，其中绝大
 
 **Hard Pull**也叫作Hard Inquiry，在美国，有三大信用局在记录着每个人的信用情况：Experian、Equifax和TransUnion。每当接到信用卡账户开户申请的时候，银行／信用卡公司就会向信用局调取申请人的信用报告(Credit Report)，这个动作就叫作Hard Pull。每受到一次Hard Pull，无论最后是否成功申请到信用卡，你的信用分数都会降低一些，而这个Hard Pull记录也将会在你的个人信用报告里会保存两年之久。
 
-**Hard Pull**需要得到申请人的授权，而我们申请信用卡的时候就意味着我们同意银行／信用卡机构Hard Pull我们的信用报告。
+Hard Pull需要得到申请人的授权，而我们申请信用卡的时候就意味着我们同意银行／信用卡机构Hard Pull我们的信用报告。
 
-偶尔的**Hard Pull**对信用分数的影响并不大，对信用分数伤害较大的是长期受到大量的**Hard Pull**，因为这很可能意味着这个人点财务状况出现了问题。
+偶尔的Hard Pull对信用分数的影响并不大，对信用分数伤害较大的是长期受到大量的Hard Pull，因为这很可能意味着这个人点财务状况出现了问题。
 
 **无论如何，一旦申请信用卡，无论成功与否，都会受到Hard Pull，因此还是尽量选择握比较大的信用卡来申请，以避免白白的浪费一个Hard Pull。**
 
-**Soft Pull**是另外一种查询调取信用报告的方式，它不会对你的信用分数产生影响。**Soft Pull不需要得到授权就可进行，通常发生在你租房或应聘工作的时候，房东或雇主Soft Pull你的信用报告作为背景调查。
+**Soft Pull是另外一种查询调取信用报告的方式，它不会对你的信用分数产生影响。**Soft Pull不需要得到授权就可进行，通常发生在你租房或应聘工作的时候，房东或雇主Soft Pull你的信用报告作为背景调查。
 
 信用卡申请基本都是Hard Pull了，其他的不太确定，最好在提出申请前，问清楚是Hard Pull还是Soft Pull。
 
@@ -65,6 +65,7 @@ BOA(Bank of American)或Wellsfargo是新手比较有机会拿到信用卡的银�
 <p style="margin-bottom:90px"></p>
 
 <span style="color:#2e8b57">**有借有还，再借不难**</span><br>
+
 信用卡千万要记得要及时还款，因为无论有心无心，一旦出现Late Payment，那真的是太伤信用分数了。建议给信用卡账户设置Auto Pay，就是把信用卡账户与银行Checking账户关联到一起， 每个月到期信用卡就自动从你的Checking账户扣把欠款(Balance)扣走，这样可以避免因为忘记还款而给自己搞出一个后患无穷的Late Payment记录。
 
 虽然信用卡还款可以按照最小额度来还，但如果不是手头紧，每个月最好全额还款，因为虽说按最小额度还不会有什么不良影响，但是只有全额还款才能够快速的建立起良好的信用分数，信用分数越好，申请信用卡，贷款什么的才会越容易。
@@ -72,6 +73,7 @@ BOA(Bank of American)或Wellsfargo是新手比较有机会拿到信用卡的银�
 <p style="margin-bottom:90px"></p>
 
 <span style="color:#2e8b57">**信用卡申请攻略**</span><br>
+
 拿到第一张信用卡后，勤刷勤还，好好的用上半年，就可以申请Discover It信用卡，简称Discover卡：↓↓↓
 
 ①Discover卡是比较容易申请到的信用卡。
@@ -84,7 +86,4 @@ BOA(Bank of American)或Wellsfargo是新手比较有机会拿到信用卡的银�
 
 Discover用上三、四个月，就可以尝试拿下必备神卡之一[Chase Freedom](https://creditcards.chase.com/freedom?jp_cmp=cc/freedom/off/na/multiple){:target="_blank" style="color:#0089BC"}信用卡了。其实在这个时候，你已经可以随意的申请各个信用卡了，但是因为Chase有一个非常讨人厌的“两年五卡规则”(5/24 Rule)，就是说对于在过去两年内，新申请了5个或者5个以上的信用卡账户的申请人不予批卡，而Chase又确实有一些十分值得申请的信用卡，因此建议在初始阶段先申请得Chase的信用卡，之后再慢慢的申请其他行的信用卡。
 
-
-
-
-
+<p style="margin-bottom:90px"></p>
