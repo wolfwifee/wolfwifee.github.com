@@ -21,8 +21,6 @@ date: 2017-03-22
 
 ▓**「最高开卡奖励」**是指一张信用卡给出过的最高的开卡奖励。因为信用卡时不时会在短时间内提高它的开卡奖励，类似于商场的促销活动，比如[American Express Platinum信用卡](https://www.americanexpress.com/us/credit-cards/card/platinum/){:target="_blank" style="color:#0089BC"}，开卡奖励平日里是4万点的MR点数，但是最高offer可以达到10万点。MR点数可以用来兑换机票、酒店，[购买Gift Card](https://rewards.americanexpress.com/myca/loyalty/us/catalog/giftcardhub?mrlinknav=header-giftcards){:target="_blank" style="color:#0089BC"}，或者直接转成信用卡的Credit当现金用。MR点数用来兑换机票的价值是最大的，兑换一张中美往返商务舱的机票是8万点到9万点，开一张这个卡一份中美往返的机票就到手了，还是商务舱哦。兑换方法可以参考[《Amex的MR点数兑换中美里程机票》](https://www.blogus123.com/credit-card-rewards-for-airline-tickets/){:target="_blank" style="color:#0089BC"}这篇文章。
 
-<p style="margin-bottom:70px"></p>
-
 **所以，当对某张信用卡感兴趣的时候，网上Google一下这张卡的最高开卡奖励，尽量在最高开卡奖励出现的时候进行申请。**
 
 <p style="margin-bottom:70px"></p>
