@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "在美国如何进行报税？1040EZ,1040A和1040区别在哪里？报税（Tax Return） 还是退税（ Tax Refund）?"
-description: "申报联邦税的表格有1040，1040A和1040EZ，适用于不同的人。有报税才有退税。使用IRS网站上的e-filling免费系统入口，省时又省力。"
+title: "2017年在美国如何进行报税退税？1040EZ,1040A和1040区别在哪里？报税（Tax Return） 还是退税（ Tax Refund）?"
+description: "报税退税流程已更新至2017年。申报联邦税的表格有1040，1040A和1040EZ，适用于不同的人。有报税才有退税。使用IRS网站上的e-filling免费系统入口，省时又省力。"
 heading: 报税这件事情(三)
 publish: true
 published: true
 datePublished: 2016-03-13
-dateModified: 2016-03-13
+dateModified: 2017-03-13
 ---
 
 
@@ -25,7 +25,7 @@ dateModified: 2016-03-13
 
 <p style="margin-bottom:70px"></p>
 
-**1040EZ**： [1040EZ表格下载点这里](https://www.irs.gov/pub/irs-pdf/f1040ez.pdf){:target="_blank" style="color:#0089BC"}  &nbsp; &nbsp; [官方完整填写说明点这里](https://www.irs.gov/pub/irs-pdf/i1040ez.pdf){:target="_blank" style="color:#0089BC"}
+**1040EZ**： [1040EZ表格（2016报税年）下载点这里](https://www.irs.gov/pub/irs-pdf/f1040ez.pdf){:target="_blank" style="color:#0089BC"}  &nbsp; &nbsp; [官方完整填写说明点这里](https://www.irs.gov/pub/irs-pdf/i1040ez.pdf){:target="_blank" style="color:#0089BC"}
 
 表格1040EZ其实是表格1040的最简化版。它只有一页，需要填写的部分也只有四节。1040EZ只适用于收入结构非常简单的人群：
 1) 年收入低于$10,000，即使你采用的是夫妻联合申报，双方收入总和也必须是低于$10,000；
@@ -37,7 +37,7 @@ dateModified: 2016-03-13
 
 <p style="margin-bottom:70px"></p>
 
-**1040A**：[1040A表格下载点这里](https://www.irs.gov/pub/irs-pdf/f1040a.pdf){:target="_blank" style="color:#0089BC"}  &nbsp; &nbsp; [官方完整填写说明点这里](https://www.irs.gov/pub/irs-pdf/i1040a.pdf){:target="_blank" style="color:#0089BC"}
+**1040A**：[1040A表格下载点这里（2016报税年）](https://www.irs.gov/pub/irs-pdf/f1040a.pdf){:target="_blank" style="color:#0089BC"}  &nbsp; &nbsp; [官方完整填写说明点这里](https://www.irs.gov/pub/irs-pdf/i1040a.pdf){:target="_blank" style="color:#0089BC"}
 
 表格1040A也是表格1040的简化版，但比表格1040EZ复杂一些。同样，想要使用1040A来报税，需要符合如下条件：
 1) 年收入低于$10,000，即使你采用的是夫妻联合申报，双方收入总和也必须是低于$10,000；
@@ -49,7 +49,7 @@ dateModified: 2016-03-13
 
 <p style="margin-bottom:70px"></p>
 
-**1040**：[标准1040表格下载点这里](https://www.irs.gov/pub/irs-pdf/f1040.pdf){:target="_blank" style="color:#0089BC"}  &nbsp; &nbsp; [官方完整填写说明点这里](https://www.irs.gov/pub/irs-pdf/i1040gi.pdf){:target="_blank" style="color:#0089BC"}
+**1040**：[标准1040表格下载点这里（2016报税年）](https://www.irs.gov/pub/irs-pdf/f1040.pdf){:target="_blank" style="color:#0089BC"}  &nbsp; &nbsp; [官方完整填写说明点这里](https://www.irs.gov/pub/irs-pdf/i1040gi.pdf){:target="_blank" style="color:#0089BC"}
 
 上文说过，表格1040是标准报税表格，其他两种表格只是它的简化版本。表格1040支持所有的减税抵税项目，允许选用标准扣除额或列举扣除额。所有Resident Aliens都可以使用1040表格进行报税，无论是否符合1040EZ或1040A的使用条件。
 
