@@ -43,7 +43,7 @@ wolfwifee自己迄今为止已经有超过10张信用卡在手了，其中绝大
 
 <p style="margin-bottom:90px"></p>
 
-<span style="color:#2e8b57">**Hard Pull 和 Soft Pull**</span><br>
+<span style="color:#2e8b57">**✓ Hard Pull 和 Soft Pull**</span><br>
 
 ▓**「Hard Pull」**也叫作Hard Inquiry，在美国，有三大信用局在记录着每个人的信用情况：Experian、Equifax和TransUnion。每当接到信用卡账户开户申请的时候，银行／信用卡公司就会向信用局调取申请人的信用报告(Credit Report)，这个动作就叫作Hard Pull。**每受到一次Hard Pull，无论最后是否成功申请到信用卡，你的信用分数都会降低一些，而这个Hard Pull记录也将会在你的个人信用报告里会保存两年之久。**
 
@@ -59,7 +59,7 @@ Hard Pull需要得到申请人的授权，而我们申请信用卡的时候就�
 
 <p style="margin-bottom:90px"></p>
 
-<span style="color:#2e8b57">**第一张信用卡总是最难的**</span><br>
+<span style="color:#2e8b57">**✓ 第一张信用卡总是最难的**</span><br>
 
 既然是申请第一张信用卡，意味申请人目前还是零信用记录，因此成功率很低，尤其是那些开卡奖励／消费返现很好的信用卡。因为银行／信用卡公司没有你的过往信用记录可以参考，所以申办第一张信用卡的时候，多半会要求申请人亲自去银行办理，并要求提供各种资料，包括护照，雇佣证明，最近几个月的银行对账单(Statements)，收入证明(Pay Stubs)，当前住址的水电费账单(Utility Bills)等等。
 
@@ -74,7 +74,7 @@ BOA(Bank of American)或Wellsfargo是新手比较有机会拿到信用卡的银�
 
 <p style="margin-bottom:90px"></p>
 
-<span style="color:#2e8b57">**有借有还，再借不难**</span><br>
+<span style="color:#2e8b57">**✓ 有借有还，再借不难**</span><br>
 
 信用卡千万要记得要及时还款，因为无论有心无心，一旦出现Late Payment，那真的是太伤信用分数了。建议给信用卡账户设置Auto Pay，就是把信用卡账户与银行Checking账户关联到一起， 每个月到期信用卡就自动从你的Checking账户扣把欠款(Balance)扣走，这样可以避免因为忘记还款而给自己搞出一个后患无穷的Late Payment记录。
 
@@ -82,7 +82,7 @@ BOA(Bank of American)或Wellsfargo是新手比较有机会拿到信用卡的银�
 
 <p style="margin-bottom:90px"></p>
 
-<span style="color:#2e8b57">**美国信用卡申请攻略**</span><br>
+<span style="color:#2e8b57">**✓ 美国信用卡申请攻略**</span><br>
 
 拿到第一张信用卡后，勤刷勤还，好好的用上半年，就可以申请Discover It信用卡，简称Discover卡↓↓↓
 
