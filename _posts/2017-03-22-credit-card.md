@@ -82,7 +82,7 @@ BOA(Bank of American)或Wellsfargo是新手比较有机会拿到信用卡的银�
 
 <p style="margin-bottom:90px"></p>
 
-<span style="color:#2e8b57">**信用卡申请攻略**</span><br>
+<span style="color:#2e8b57">**美国信用卡申请攻略**</span><br>
 
 拿到第一张信用卡后，勤刷勤还，好好的用上半年，就可以申请Discover It信用卡，简称Discover卡↓↓↓
 
@@ -94,6 +94,5 @@ BOA(Bank of American)或Wellsfargo是新手比较有机会拿到信用卡的银�
 
 ④每个季度指定类别的消费可以得到是5%的返现：2017年第一季度是加油、交通和在Wholesale类的超市消费，第二季度是家装超市（类似Home Depot，Lowes这样的）和Wholesale类的超市，第三、第四季度还未揭晓。其余类别的消费返现均是1%。对于新开卡的用户，因为第一年返现翻倍，季度5%的返现可就变成了10%了哦。
 
-Discover用上三、四个月，就可以尝试拿下必备神卡之一[Chase Freedom](https://creditcards.chase.com/freedom?jp_cmp=cc/freedom/off/na/multiple){:target="_blank" style="color:#0089BC"}信用卡了。其实在这个时候，你已经可以随意的申请各个信用卡了，但是因为Chase有一个非常讨人厌的“两年五卡规则”(5/24 Rule)，就是说对于在过去两年内，新申请了5个或者5个以上的信用卡账户的申请人不予批卡，而Chase又确实有一些十分值得申请的信用卡，因此建议在初始阶段先申请得Chase的信用卡，之后再慢慢的申请其他行的信用卡。
-
+Discover用上三、四个月，就可以尝试拿下必备神卡之一[Chase Freedom](https://creditcards.chase.com/freedom?jp_cmp=cc/freedom/off/na/multiple){:target="_blank" style="color:#0089BC"}信用卡了。**其实在这个时候，你已经可以随意的申请各个信用卡了，但是因为Chase有一个非常讨人厌的“两年五卡规则”(5/24 Rule)，就是说对于在过去两年内，新申请了5个或者5个以上的信用卡账户的申请人不予批卡，而Chase又确实有一些十分值得申请的信用卡，因此建议在初始阶段先申请得Chase的信用卡，之后再慢慢的申请其他行的信用卡。**
 <p style="margin-bottom:90px"></p>
