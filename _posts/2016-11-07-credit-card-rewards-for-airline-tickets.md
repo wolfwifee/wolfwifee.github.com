@@ -13,7 +13,7 @@ date: 2016-11-07
 
 <p style="margin-bottom:70px"></p>
 
-**怎么申请American Express的MR点数信用卡可以参考[《美国信用卡申请白皮书》](https://www.blogus123.com/credit-card/){:target="_blank" style="color:#0089BC"}这篇文章。**
+**怎么申请American Express的MR点数信用卡可以参考《[美国信用卡申请白皮书](https://www.blogus123.com/credit-card/){:target="_blank" style="color:#0089BC"}》这篇文章。**
 
 <p style="margin-bottom:70px"></p>
 
