@@ -2,7 +2,7 @@
 layout: post
 title: 如何用American Express信用卡点数兑换里程机票｜信用卡点数兑换里程机票的流程及省钱攻略
 description: "用Amex信用卡的MR点数兑换中美里程机票最为推荐的是Air Canada加拿大航空公司(AC)和ANA全日空航空公司。AC往返需75k，但可出单程里程机票，ANA往返仅需60k，但无法出单程里程票。兑换的时候，除了所需里程之外，还要看好燃油税等各种税费支出。"
-heading: Amex的MR点数兑换中美里程机票
+heading: 信用卡点数兑换中美里程机票
 publish: true
 published: true
 datePublished: 2016-11-07T00:00:00.000Z
