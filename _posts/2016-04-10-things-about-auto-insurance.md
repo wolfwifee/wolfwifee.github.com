@@ -170,7 +170,7 @@ Title：你对这辆车所有权的证明，这个要在家里藏好哦。
 
 <p style="margin-bottom:75px"></p>
 
-<p itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">评分：<span itemprop="ratingValue">4.9</span>分，已有<span itemprop="ratingCount">93</span>人打分
+<p itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">评分：<span itemprop="ratingValue">4.8</span>分，已有<span itemprop="ratingCount">125</span>人打分
       
       <meta itemprop="bestRating" content="5">
       <meta itemprop="worstRating" content="1">
