@@ -6,7 +6,7 @@ heading: 报税这件事情(三)
 publish: true
 published: true
 datePublished: 2016-03-13
-date: 2017-03-26
+date: 2017-04-26
 ---
 
 
@@ -58,5 +58,22 @@ date: 2017-03-26
 接下来，就是像在 [报税这件事情(一)](/what-is-tax-return/){:style="color:#0089BC"} 这篇文章里说过的一下：1) 下载报税用的表格；2) 按照表格填写说明，把上年度所有个人收入和符合免税条款的收入扣减项填入，表格里就会计算出你的个人所得税应缴数目；3) 在报税截止日期之前，用邮寄或在线提交（e-filling）的方式把表格和钱提交给税务部门。当然，如果算出来的结果是IRS多收了税款，那就只需要把表格提交过去，然后等着IRS给你寄回退税支票（Tax Refund）就可以了。
 
 对于选择自己报税的人，我个人比较推荐[IRS官网上提供的e-filling免费系统入口](https://www.irs.gov/uac/Free-File:-Do-Your-Federal-Taxes-for-Free){:target="_blank" style="color:#0089BC"}。虽然不如付费版的Turbotax、H&Rblock等商业报税软件智能，但还是比边看说明边手动填表还是要方便不少的。
+
+<p style="margin-bottom:70px"></p>
+
+对于大多数人来说，第一次报税往往是最难的，各种摸不着头脑，但是经历过一次后，再往后做起来就会得心应手的多。
+
+再次友情提醒一下，无论是邮寄纸质表格还是使用IRS官网当e-filling系统，最好都先用Turbotax算一下，看看计算结果是否一致，以降低出错的几率。
+
+<p style="margin-bottom:70px"></p>
+
+**报税／退税进度查询**
+
+报税完成以后，对于有退税可拿的人来说，一定是很期待拿到退税的支票或是银行进账。
+
+如果你早早的就在1，2月份就把税报完了，那么大约1到2周就能收到退税(Refund)；但如果是在3月底4月初的报税高峰期提交的，往往需要等待1到2个月。
+
+[IRS官网退税进度查询地址是https://sa.www4.irs.gov/irfof/lang/en/irfofgetstatus.jsp](https://sa.www4.irs.gov/irfof/lang/en/irfofgetstatus.jsp){:target="_blank" style="color:#0089BC"}，需要输入SSN，采用的报税方式（单身，夫妻联合报税等）和退税金额。
+
 
 <p style="margin-bottom:70px"></p>
