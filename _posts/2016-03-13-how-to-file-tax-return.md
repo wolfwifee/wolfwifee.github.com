@@ -69,11 +69,11 @@ date: 2017-04-26
 
 **报税／退税进度查询**
 
-报税完成以后，对于有退税可拿的人来说，一定是很期待拿到退税的支票或是银行进账。
+报税完成以后，对于有退税(Refund)可拿的人来说，一定是很期待拿到退税的支票或是银行进账。
 
-如果你早早的就在1，2月份就把税报完了，那么大约1到2周就能收到退税(Refund)；但如果是在3月底4月初的报税高峰期提交的，往往需要等待1到2个月。
+如果你早早的就在1，2月份就把税报完了，那么大约1到2周就能收到退税；但如果是在3月底4月初的报税高峰期提交的，往往需要等待1到2个月。
 
-[IRS官网退税进度查询地址是https://sa.www4.irs.gov/irfof/lang/en/irfofgetstatus.jsp](https://sa.www4.irs.gov/irfof/lang/en/irfofgetstatus.jsp){:target="_blank" style="color:#0089BC"}，需要输入SSN，采用的报税方式（单身，夫妻联合报税等）和退税金额。
+[IRS官网退税进度查询的地址是：https://sa.www4.irs.gov/irfof/lang/en/irfofgetstatus.jsp](https://sa.www4.irs.gov/irfof/lang/en/irfofgetstatus.jsp){:target="_blank" style="color:#0089BC"}，需要输入SSN，采用的报税方式（单身，夫妻联合报税等）和退税金额。
 
 
 <p style="margin-bottom:70px"></p>
