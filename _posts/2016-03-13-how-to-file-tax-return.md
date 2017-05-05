@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2017年在美国如何进行报税退税？1040EZ,1040A和1040区别在哪里？报税（Tax Return）还是退税（Tax Refund）?"
-description: "美国报税退税流程已更新至2017年。申报联邦税的表格有1040，1040A和1040EZ，适用于不同的人。有报税才有退税。使用IRS网站上的e-filling免费系统入口，省时又省力。"
+description: "美国报税退税流程已更新至2017年。申报联邦税的表格有1040，1040A和1040EZ，适用于不同的人。有报税才有退税。使用IRS网站上的e-filling免费系统入口，省时又省力。退税可在线查询"
 heading: 报税这件事情(三)
 publish: true
 published: true
