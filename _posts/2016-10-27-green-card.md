@@ -6,7 +6,7 @@ heading: 绿卡排期要等待多久
 publish: true
 published: true
 datePublished: 2016-10-27T00:00:00.000Z
-date: 2017-03-06
+date: 2017-07-02
 ---
 
 <span class="dropcap">请</span>牢记，对大多数人来说，绿卡申请是一场长达数年的战役，具体时间因人而已，因为整个过程中，意外情况可能层出不穷，从而导致进度发生延迟。
