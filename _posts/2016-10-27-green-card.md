@@ -64,6 +64,19 @@ EB-2和EB-3绿卡的重点在于雇主/公司的支持( Sponsoring an Immigrant 
 
 <p style="margin-bottom:90px"></p>
 
+<span style="color:#2e8b57">**使用FOIA获得I-140表格的拷贝**</span><br>
+EB-2和EB-3申请步骤繁琐，加上中国大陆的排期问题，绿卡到手往往需要五年甚至更多时间。由于申请过程中对于更换工作有着诸多限制，许多公司就会Taking Advantage，给正在申请绿卡的员工低于市场价的薪水。许多人不愿忍受长达五年的“剥削”，于是在I-140获得批准后更换工作就是成了最好的选择，因为到了这个时候，属于你个人的Priority Date算是拿到了，新公司虽然PERM和I-140要重新申请，但可以把它们和你的Priority Date链接上，这样基本就不太会影响绿卡到手时间了。
+
+很多公司还会在你离职之后撤回(Withdraw)为你申请的I-140，但是不用担心，只要是I-140已经被USCIS批准了，你的Priority Date还是会保留下来的。
+
+唯一到问题在于，I-140是由公司提出申请的，USCIS会将所有的文件给到公司而非个人，而公司是有权不分享任何I-140的信息给到个人的。
+
+于是，怎么拿到这份I-140的信息，从而让新公司的新I-140与Priority Date顺利的链接上就是关键了↓↓↓
+
+FOIA的全称是Freedom of Information Act，中文翻译为信息自由法，我们可以向USCIS提交一份FOIA得请求从而得到I-140获批表格的拷贝。FOIA是不收费的，使用的表格为G-639，[请点击这里到USCIS官网对应的页面下载](https://www.uscis.gov/g-639){:target="_blank" style="color:#0089BC"}。
+
+<p style="margin-bottom:90px"></p>
+
 <span style="color:#2e8b57">**EB-1杰出人才**</span><br>
 既然被定义为杰出人才，待遇自然比EB-2和EB-3优厚：可直接提交I-485，即EB-1申请绿卡无PERM和I-140阶段，也不需等待排期。
 
