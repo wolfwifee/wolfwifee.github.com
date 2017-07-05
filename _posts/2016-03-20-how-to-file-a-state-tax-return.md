@@ -6,7 +6,7 @@ heading: 报税这件事情(四)
 publish: true
 published: true
 datePublished: 2016-03-20
-date: 2017-03-26
+date: 2017-04-26
 ---
 
 
@@ -127,5 +127,7 @@ SACRAMENTO, CA 94267-0001
 提交报税后，如果有退税，可登录[加州政府的退税查询页面](https://webapp.ftb.ca.gov/refund/login.aspx?Lang=en-US){:target="_blank" style="color:#0089BC"}查询退税情况。查询的时候，需要输入SSN号码，地址中的门牌号，ZIP Code和退税的金额。
 
 采用在线报税（e-filling）方式的人，一般会在7到12个工作日收到退税；而邮寄纸质税表报税的人，则需要2-3个月的时间。
+
+在线查看加州州税退税状态的时候，如果出现一直滞留在“Your tax return requires additional processing time. Please allow 3 months from the date you filed your return to complete processing.”这个状态的情况，只要拨打加州税务部门916-845-7088这个号码，和客服专员验证一下你的个人信息即可，过后大概2-4周钱就会到账了，可不要傻傻的真的等3个月哦。
 
 <p style="margin-bottom:70px"></p>
