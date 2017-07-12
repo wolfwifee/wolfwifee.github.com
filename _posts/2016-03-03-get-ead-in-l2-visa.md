@@ -10,7 +10,7 @@ date: 2017-07-11
 ---
 
 
-<span class="dropcap">L2</span>和H4签证都是可以工作，但是仅限于与L1／H1B是spouse(夫妻)关系。L-2和H-4签证想要合法工作，必须先向移民局申请工作许可(EAD－Employment Authorization Document)。**在没有EAD的情况下工作，即使获得了雇佣，也无论是何种形式的雇佣，都属于违法**。
+<span class="dropcap">L2</span>和H4签证都是可以工作的，但是仅限于与L1／H1B是spouse(夫妻)关系。L-2和H-4签证想要合法工作，必须先向移民局申请工作许可(EAD－Employment Authorization Document)。**在没有EAD的情况下工作，即使获得了雇佣，也无论是何种形式的雇佣，都属于违法**。
 
 EAD的审批期最长为三个月，快的话一个月左右收到也是有的，我自己是在快2个月的时候拿到的。审批通过后EAD会邮寄给你或让你去USCIS的office领取，若是超过70天没有消息，可以给USCIS的客服打电话询问，电话号码是1-800-375-5283。
 
