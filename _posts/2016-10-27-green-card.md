@@ -85,7 +85,7 @@ FOIA是不收费的，使用的表格为G-639，[请点击这里到USCIS官网�
 <p style="margin-bottom:90px"></p>
 
 <span style="color:#2e8b57">**➩EB-1杰出人才**</span><br>
-既然被定义为杰出人才，待遇自然比EB-2和EB-3优厚：可直接提交I-485，即EB-1申请绿卡无PERM和I-140阶段，也不需等待排期。
+既然被定义为杰出人才，待遇自然比EB-2和EB-3优厚：申请绿卡无PERM阶段，可直接提交I-140，一旦I-140获准，即可提交I-485，不需等待排期。
 
 <p style="margin-bottom:90px"></p>
 
