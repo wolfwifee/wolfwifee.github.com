@@ -18,7 +18,7 @@ EAD的审批期最长为三个月，快的话一个月左右收到也是有的�
 
 <p style="margin-bottom:70px"></p>
 
-<span style="color:#2e8b57">**L-2申请EAD，需要如下材料**</span><br>
+<span style="color:#2e8b57">**➩L-2申请EAD，需要如下材料**</span><br>
 
 * I-765表：到[美国移民局USCIS网站的EAD申请说明页面](http://www.uscis.gov/i-765){:target="_blank" style="color:#0089BC"}下载空表格，在电脑上填写好后打印出来。L2所属的分类为(a)(18)；网站上还提供了I-765表的填写范例供下载。
 * I-94表: [到美国海关网站在线打印出最新的I-94](https://i94.cbp.dhs.gov/I94/consent.html;jsessionid=rJV4WckYKvJc1mRy1GGrnljRPGdrbX2047wQgpQnhlQf72v7p1vF!1808615784){:target="_blank" style="color:#0089BC"}；
@@ -37,13 +37,13 @@ EAD的审批期最长为三个月，快的话一个月左右收到也是有的�
 
 <p style="margin-bottom:70px"></p>
 
-<span style="color:#2e8b57">**办理进度查询**</span><br>
+<span style="color:#2e8b57">**➩办理进度查询**</span><br>
 
 通常USCIS在收到申请材料后，会用邮寄的方式回寄给你信件，告知Receipt Number，办理的进度等，但如果你希望USCIS也通过email或短信告知这些信息，可以再填一张G-1145表附在申请材料的第一页。[点击这里进入美国移民局网站下载G-1145表](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf){:target="_blank" style="color:#0089BC"}。
 
 <p style="margin-bottom:70px"></p>
 
-<span style="color:#2e8b57">**申请材料寄送地址**</span><br>
+<span style="color:#2e8b57">**➩申请材料寄送地址**</span><br>
 
 将申请材料邮寄给移民局指定的地址，不同的州邮寄地址不同，具体如下：
 
@@ -51,7 +51,7 @@ EAD的审批期最长为三个月，快的话一个月左右收到也是有的�
 
 <p style="margin-bottom:70px"></p>
 
-<span style="color:#2e8b57">**H-4签证申请EAD**</span><br>
+<span style="color:#2e8b57">**➩H-4签证申请EAD**</span><br>
 
 H-4签证申请EAD的法律是在2015年刚获得通过的，但相比L-2存在更多的限制。这也就是说，并不所有的H-4都可以申请EAD。
 
