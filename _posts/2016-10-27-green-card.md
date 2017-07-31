@@ -57,6 +57,11 @@ EB-2和EB-3绿卡的重点在于雇主/公司的支持( Sponsoring an Immigrant 
 
 <p style="margin-bottom:90px"></p>
 
+span style="color:#2e8b57">**➩L签证如何办理绿卡？**</span><br>
+一般L签证过来美国的都是让公司给办EB绿卡。EB1不用排期，但是EB2和EB3的办理完成需要好多年，而L签证总共就只有5年时间，5年期满后是无法延期的，所以EB2和EB3最好在办理绿卡的同时办理转H1B签证。此外，因为当前的H1B签证还需要抽签取得，中签几率近几年越来越小了，因此L转H1B越早办理越好，不要临到L签证快到期了再来申请，万一没有抽中呢？
+
+<p style="margin-bottom:90px"></p>
+
 <span style="color:#2e8b57">**➩那在等待绿卡排期期间是否可以回国呢？**</span><br>
 答案是可以回国：
 
