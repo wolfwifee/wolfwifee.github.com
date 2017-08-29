@@ -6,7 +6,7 @@ heading: 绿卡排期要等待多久
 publish: true
 published: true
 datePublished: 2016-10-27T00:00:00.000Z
-date: 2017-07-29
+date: 2017-08-25
 ---
 
 <span class="dropcap">请</span>牢记，对大多数人来说，绿卡申请是一场长达数年的战役，具体时间因人而已，因为整个过程中，意外情况可能层出不穷，从而导致进度发生延迟。
@@ -48,7 +48,7 @@ EB-2和EB-3绿卡的重点在于雇主/公司的支持( Sponsoring an Immigrant 
 
 绿卡排期是无法预测的，有时是EB2比较快，有时是EB3比较快，但有时甚至会发生倒退，全凭USCIS的心情，以及Trump的心情。
 
-**美国国务院(State Department)会在每个月的中旬公布下个月的绿卡排期情况，当前最新的排期时间是到2017年8月份中，中国大陆EB2到2013年4月22日，EB3到2012年1月1日。[点这里到官网查询](https://www.uscis.gov/visabulletininfo){:target="_blank" style="color:#0089BC"}。**
+**美国国务院(State Department)会在每个月的中旬公布下个月的绿卡排期情况，当前最新的排期时间是到2017年9月份中，中国大陆EB2到2013年5月15日，EB3到2012年1月1日。[点这里到官网查询](https://www.uscis.gov/visabulletininfo){:target="_blank" style="color:#0089BC"}。**
 
 <p style="margin-bottom:90px"></p>
 
@@ -87,7 +87,7 @@ EB-2和EB-3申请步骤繁琐，加上中国大陆的排期问题，绿卡到手
 
 FOIA是不收费的，使用的表格为G-639，[请点击这里到USCIS官网对应的页面下载](https://www.uscis.gov/g-639){:target="_blank" style="color:#0089BC"}。
 
-具体步骤请参考[《用FOIA获得I-140拷贝》](https://www.blogus123.com/foia-i140/){:target="_blank" style="color:#0089BC"}这篇文章。
+具体步骤请参考《[用FOIA获得I-140拷贝](https://www.blogus123.com/foia-i140/){:target="_blank" style="color:#0089BC"}》这篇文章。
 
 <p style="margin-bottom:90px"></p>
 
