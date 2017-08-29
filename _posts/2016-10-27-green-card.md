@@ -87,6 +87,8 @@ EB-2和EB-3申请步骤繁琐，加上中国大陆的排期问题，绿卡到手
 
 FOIA是不收费的，使用的表格为G-639，[请点击这里到USCIS官网对应的页面下载](https://www.uscis.gov/g-639){:target="_blank" style="color:#0089BC"}。
 
+具体步骤请参考[《用FOIA获得I-140拷贝》](https://www.blogus123.com/foia-i140/){:target="_blank" style="color:#0089BC"}这篇文章。
+
 <p style="margin-bottom:90px"></p>
 
 <span style="color:#2e8b57">**➩EB-1杰出人才**</span><br>
