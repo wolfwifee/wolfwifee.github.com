@@ -83,11 +83,7 @@ EB-2和EB-3申请步骤繁琐，加上中国大陆的排期问题，绿卡到手
 
 实际中，很多公司也是不会提供I-140的信息给员工的，于是，拿到这份I-140的信息，从而让新公司的新I-140与Priority Date顺利的链接上就要靠FOIA了↓↓↓
 
-**FOIA的全称是Freedom of Information Act，中文翻译为信息自由法，我们可以向USCIS提交一份FOIA请求从而得到I-140获批表格的拷贝。**
-
-FOIA是不收费的，使用的表格为G-639，[请点击这里到USCIS官网对应的页面下载](https://www.uscis.gov/g-639){:target="_blank" style="color:#0089BC"}。
-
-具体步骤请参考《[用FOIA获得I-140拷贝](https://www.blogus123.com/foia-i140/){:target="_blank" style="color:#0089BC"}》这篇文章。
+**FOIA的全称是Freedom of Information Act，中文翻译为信息自由法，我们可以向USCIS提交一份FOIA请求从而得到I-140获批表格的拷贝。**FOIA是不收费的，具体步骤请参考《[用FOIA获得I-140拷贝](https://www.blogus123.com/foia-i140/){:target="_blank" style="color:#0089BC"}》这篇文章。
 
 <p style="margin-bottom:90px"></p>
 
