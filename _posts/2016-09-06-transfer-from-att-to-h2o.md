@@ -154,7 +154,8 @@ date: 2017-12-13
 
 接着，输入这些信息
 
-| -------    |:----------:|
+|           |            |
+| -------   |:----------:|
 | Name      | H2O Wireless |
 | APN       | att.mvno |
 | Proxy     | proxy.mvno.H2OMobileweb.com |
