@@ -111,3 +111,44 @@ date: 2016-09-06
 ⑤信号方面，至少在我通常的活动范围内，天气好的时候并没有觉得和AT&T有什么差别，但是下雨天确实会差一些。另外，据说偏远一些的地区也会比较差。
 
 <p style="margin-bottom:50px"></p>
+
+**<span style="color:#2e8b57">在AT&T合约机上使用H2O电话卡</span>**<br>
+
+购买运营商的合约机在手机价格上会比买裸机便宜不少。
+
+比如以下这款iPhone SE：
+
+<p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+ <img src="/assets/img/ATT Prepaid iPhone.png" alt="AT&T Locked iPhone合约机">
+  <meta itemprop="url" content="https://www.blogus123.com/assets/img/ATT Prepaid iPhone.png">
+  <meta itemprop="width" content="360">
+  <meta itemprop="height" content="240">
+</p>
+
+又比如以下这款 Huawei Ascend XT2：
+
+<p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+ <img src="/assets/img/ATT Prepaid Phone.png" alt="AT&T Locked Phone合约机">
+  <meta itemprop="url" content="https://www.blogus123.com/assets/img/ATT Prepaid Phone.png">
+  <meta itemprop="width" content="360">
+  <meta itemprop="height" content="240">
+</p>
+
+但这些手机往往捆绑着高昂的话费套餐，让人望而却步。
+
+但是，H2O是租用的AT&T的网络，因此所有AT&T(AT&T Locked)的合约机都可以无需解锁直接使用H2O的卡！！！
+
+这个也就意味着，我们可以低价购买到心仪的手机，例如最新的iPhone等，然后抛弃掉AT&T的高额话费合同，插入物美价廉的H2O电话卡，再为手机手动添加一个H2O的APN信息就可以使用了，是不是棒棒哒？
+
+手动添加APN很简单↓↓↓
+
+首先，Google一下自己的手机在哪里设置APN，一般是在Setting下的Mobile Networks里。
+
+然后，输入这些信息
+Name: H2O Wireless
+APN: att.mvno
+Proxy: proxy.mvno.H2OMobileweb.com
+Port: 80
+其他项目使用默认的就可以了。
+
+<p style="margin-bottom:50px"></p>
