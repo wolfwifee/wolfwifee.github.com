@@ -154,10 +154,11 @@ date: 2017-12-13
 
 接着，输入这些信息
 
-| ------------- |:----------:|
+| $30        | $100       |
+| -------    |:----------:|
 | Name      | H2O Wireless |
-| APN      | att.mvno |
-| Proxy      | proxy.mvno.H2OMobileweb.com |
+| APN       | att.mvno |
+| Proxy     | proxy.mvno.H2OMobileweb.com |
 | Port      | 80 |
 
 其他项目使用默认的就可以了。
