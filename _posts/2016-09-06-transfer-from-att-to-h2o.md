@@ -6,8 +6,8 @@ heading: 向AT&T高额话费说拜拜
 publish: true
 published: true
 datePublished: 2016-09-06T00:00:00.000Z
-dateModified: 2016-09-06T00:00:00.000Z
-date: 2016-09-06
+dateModified: 2017-12-13T00:00:00.000Z
+date: 2017-12-13
 ---
 
 <span class="dropcap">在</span>将运营商更换到了H2O后，手机费骤然降到5刀左右一个月，这种感觉真是妙不可言。回想之前在AT&T每月将近40刀的话费，真是后悔没有早一点行动早一点省钱。
