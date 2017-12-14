@@ -152,11 +152,14 @@ date: 2017-12-13
 
 首先，Google一下自己的手机在哪里设置APN，一般是在Setting下的Mobile Networks里。
 
-然后，输入这些信息
-Name: H2O Wireless
-APN: att.mvno
-Proxy: proxy.mvno.H2OMobileweb.com
-Port: 80
+接着，输入这些信息
+|               |            | 
+| ------------- |:----------:|
+| Name      | H2O Wireless |
+| APN      | att.mvno |
+| Proxy      | proxy.mvno.H2OMobileweb.com |
+| Port      | 80 |
+
 其他项目使用默认的就可以了。
 
 <p style="margin-bottom:50px"></p>
