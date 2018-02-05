@@ -48,7 +48,7 @@ EB-2和EB-3绿卡的重点在于雇主/公司的支持( Sponsoring an Immigrant 
 
 绿卡排期是无法预测的，有时是EB2比较快，有时是EB3比较快，但有时甚至会发生倒退，全凭USCIS的心情，以及Trump的心情。
 
-**美国国务院(State Department)会在每个月的中旬公布下个月的绿卡排期情况，当前最新的排期时间是到2017年9月份中，中国大陆EB2到2013年5月15日，EB3到2012年1月1日。[点这里到官网查询](https://www.uscis.gov/visabulletininfo){:target="_blank" style="color:#0089BC"}。**
+**美国国务院(State Department)会在每个月的中旬公布下个月的绿卡排期情况，当前最新的排期时间是到2018年2月份，中国大陆EB2到2014年11月15日，EB3到2016年1月1日。[点这里到官网查询](https://www.uscis.gov/visabulletininfo){:target="_blank" style="color:#0089BC"}。**
 
 <p style="margin-bottom:90px"></p>
 
