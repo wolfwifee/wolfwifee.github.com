@@ -23,6 +23,13 @@ date: 2018-02-11
 
 在进行购车调研度时候，TrueCar，CarsDirect和Edmunds是当下比较为推荐的购车第三方平台，这几个网站提供的车辆的信息比较齐全，在帮助决定目标车型目标价格的时候还是很有用的。而TrueCar上的National Exceptional Price更是可以作为我们购买新车的目标税前价格，至于那什么MSRP(汽车厂商官网给出的建议零售价)，Invoice Price的就忽略它吧。
 
+<p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+ <img src="/assets/img/truecar_Exceptional_Price.png" alt="truecar_Exceptional_Price">
+  <meta itemprop="url" content="https://www.blogus123.com/assets/img/truecar_Exceptional_Price.png">
+  <meta itemprop="width" content="1021">
+  <meta itemprop="height" content="382">
+</p>
+
 第二步就是砍价。死抠价格，竭尽所能便宜拿下的秘诀就是：多方比价还价＋等待合适的出手时机。
 
 买新车切记万万不可直接奔Dealer店里，啥调研没做直接进店的就相当于主动送上案板的鱼肉，不宰都说不过去。
