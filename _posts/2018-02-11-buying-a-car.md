@@ -17,9 +17,11 @@ date: 2018-02-11
 
 **<span style="color:#2e8b57">买新车的第一步，就是根据主要用途，预算，个人喜好和自身驾驶水平来选定目标品牌车型配置等。</span>**
 
-比如，我想买一部价格$20000 ~ $25000之间的SUV，无所谓动力，只求省油省心，安全指数高加外观顺眼，车的颜色一定要是白色，配备一键启动系统，最好是皮座椅。 按这些个条件筛选下来，基本就划定在了Honda的CRV，Toyata的HRV，Nissan ROGUE和Hyundai Tucson的这四款车型之中。接着再针对这些车型进行多轮的网上调研和内心取舍，最终决定购买2017 Hyundai Tucson SE FWD。
+比如，我想买一部价格$20000 ~ $25000之间的SUV，无所谓动力，只求省油省心，安全指数高加外观顺眼，车的颜色一定要是白色，配备一键启动系统，最好是皮座椅。
 
-在进行购车调研度时候，TrueCar，CarsDirect和Edmunds是当下比较为推荐的购车第三方平台，这几个网站提供的车辆的信息比较齐全，在帮助决定目标车型目标价格的时候还是很有用的。而TrueCar上的National Exceptional Price更是可以作为我们购买新车的目标税前价格，至于那什么MSRP(汽车厂商官网给出的建议零售价)，Invoice Price的就忽略它吧。
+按这些个条件筛选下来，基本就划定在了Honda的CRV，Toyota的HRV，Nissan Rogue和Hyundai Tucson的这四款车型之中。接着再针对这些车型进行多轮的网上调研和内心取舍，最终决定购买2017 Hyundai Tucson SE FWD。
+
+在进行购车调研的时候，TrueCar，CarsDirect和Edmunds是当下比较为推荐的购车第三方平台，这几个网站提供的车辆的信息比较齐全，在帮助决定目标车型目标价格的时候还是很有用的。而TrueCar上的National Exceptional Price更是可以作为我们购买新车的目标税前价格，至于那什么MSRP(汽车厂商官网给出的建议零售价)，Invoice Price的就忽略它吧。
 
 <p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
  <img src="/assets/img/truecar_Exceptional_Price.png" alt="truecar_Exceptional_Price">
