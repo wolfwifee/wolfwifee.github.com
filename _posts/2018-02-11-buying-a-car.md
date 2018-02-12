@@ -23,7 +23,7 @@ date: 2018-02-11
 
 按这些个条件筛选下来，基本就划定在了Honda的CRV，Toyota的HRV，Nissan Rogue和Hyundai Tucson的这四款车型之中。接着再针对这些车型进行多轮的网上调研和内心取舍，最终决定购买2017 Hyundai Tucson SE FWD。
 
-在进行购车调研的时候，TrueCar，CarsDirect和Edmunds是当下比较为推荐的购车第三方平台，这几个网站提供的车辆的信息比较齐全，在帮助决定目标车型目标价格的时候还是很有用的。而TrueCar上的National Exceptional Price更是可以作为我们购买新车的目标税前价格，至于那什么MSRP(汽车厂商官网给出的建议零售价)，Invoice Price的就忽略它吧。
+在进行购车调研的时候，[TrueCar](https://www.truecar.com/#/){:target="_blank" style="color:#0089BC"}，[CarsDirect](https://www.carsdirect.com/){:target="_blank" style="color:#0089BC"}和[Edmunds](https://www.edmunds.com/){:target="_blank" style="color:#0089BC"}是当下比较为推荐的购车第三方平台，这几个网站提供的车辆的信息比较齐全，在帮助决定目标车型目标价格的时候还是很有用的。而TrueCar上的National Exceptional Price更是可以作为我们购买新车的目标税前价格，至于那什么MSRP(汽车厂商官网给出的建议零售价)，Invoice Price的就忽略它吧。
 
 <p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
  <img src="/assets/img/truecar_Exceptional_Price.png" alt="truecar_Exceptional_Price">
@@ -66,7 +66,7 @@ date: 2018-02-11
 
 一般来说大的Dealer不太会在谈好的售车价格上欺骗你，陷阱主要在贷款的利率和购买保险和维修保养package上。如果进店后发现Dealer以各种理由在说好的税前价格上加价，请果断转身离开。
 
-此外，在进店购买之前，请先了解好：①贷款利率－自己通过银行贷款购车的话利率是多少，②新车车险报价－新车车险的价格是多少 和 ③所在州的购车税费(避免Dealer在税费上做手脚)。加州的朋友，可以到DMV的官网计算购车税和车辆注册费{https://www.dmv.ca.gov/wasapp/FeeCalculatorWeb/newVehicleForm.do}。此外，最好也准备好首付用的支票或现金，刷信用卡的付款方式当然也是可以的，但通常都会有较高的手续费。
+此外，在进店购买之前，请先了解好：①贷款利率－自己通过银行贷款购车的话利率是多少，②新车车险报价－新车车险的价格是多少 和 ③所在州的购车税费(避免Dealer在税费上做手脚)。加州的朋友，[可以到DMV的官网计算购车税和车辆注册费](https://www.dmv.ca.gov/wasapp/FeeCalculatorWeb/newVehicleForm.do){:target="_blank" style="color:#0089BC"}。此外，最好也准备好首付用的支票或现金，刷信用卡的付款方式当然也是可以的，但通常都会有较高的手续费。
 
 贷款利率Finance
 很多时候厂商会提供0利率贷款，但是选择零利率的话，厂商的Cash Back Incentive的部分就拿不到了，所以请做好算术拿哪个更划算。一般来说，放弃零利率拿Cash Back Incentive会更划算，前提是利率上没有被Dealer坑，所以提前向银行了解一下自己的车贷利率是很有必要的。
