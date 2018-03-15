@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 解读2017美国绿卡申请流程及排期。如何获得工作绿卡？EB1，EB2，EB3，EB4和EB5。
-description: 已更新至2018年2月中国大陆绿卡排期。所谓绿卡排期只是针对EB-2和EB-3分类，当前大概需等待5-6年，可用H1-B，L1B或者L2维持身份。EB-2和EB-3申请期间如果更换工作，可能导致绿卡申请从头再来。EB-1，EB-4和EB-5分类无需等待，可直接提交绿卡申请。工作绿卡申请期间更换工作，可以使用FOIA可以绕开公司获得I-140批准表格的拷贝。
+description: 已更新至2018年4月中国大陆绿卡排期。所谓绿卡排期只是针对EB-2和EB-3分类，当前大概需等待5-6年，可用H1-B，L1B或者L2维持身份。EB-2和EB-3申请期间如果更换工作，可能导致绿卡申请从头再来。EB-1，EB-4和EB-5分类无需等待，可直接提交绿卡申请。工作绿卡申请期间更换工作，可以使用FOIA可以绕开公司获得I-140批准表格的拷贝。
 heading: 绿卡排期要等待多久
 publish: true
 published: true
 datePublished: 2016-10-27T00:00:00.000Z
-date: 2018-02-05
+date: 2018-03-15
 ---
 
 <span class="dropcap">请</span>牢记，对大多数人来说，绿卡申请是一场长达数年的战役，具体时间因人而已，因为整个过程中，意外情况可能层出不穷，从而导致进度发生延迟。
@@ -50,7 +50,7 @@ EB-2和EB-3绿卡的重点在于雇主/公司的支持( Sponsoring an Immigrant 
 
 绿卡排期是无法预测的，有时是EB2比较快，有时是EB3比较快，但有时甚至会发生倒退，全凭USCIS的心情，以及Trump的心情。
 
-**美国国务院(State Department)会在每个月的中旬公布下个月的绿卡排期情况，当前最新的排期时间是到2018年2月份，中国大陆EB2到2014年11月15日，EB3到2016年1月1日。[点这里到官网查询](https://www.uscis.gov/visabulletininfo){:target="_blank" style="color:#0089BC"}。**
+**美国国务院(State Department)会在每个月的中旬公布下个月的绿卡排期情况，当前最新的排期时间是到2018年4月份，中国大陆EB2到2014年8月1日，EB3到2015年1月1日。[点这里到官网查询](https://www.uscis.gov/visabulletininfo){:target="_blank" style="color:#0089BC"}。**
 
 <p style="margin-bottom:90px"></p>
 
