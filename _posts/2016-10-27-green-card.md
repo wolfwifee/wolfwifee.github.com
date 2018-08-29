@@ -6,14 +6,14 @@ heading: 绿卡排期要等待多久
 publish: true
 published: true
 datePublished: 2016-10-27T00:00:00.000Z
-date: 2018-05-03
+date: 2018-08-28
 ---
 
 <span class="dropcap">请</span>牢记，对大多数人来说，绿卡申请是一场长达数年的战役，具体时间因人而已，因为整个过程中，意外情况可能层出不穷，从而导致进度发生延迟。
 
 <p style="margin-bottom:70px"></p>
 
-获得绿卡(Green Card)意味着获得了在美国的永久居留权(U.S. lawful Permanent Residence)，各种工作签证持有者从此不用再为签证到期或失去工作而惶恐不安。
+获得绿卡(Green Card)意味着获得了在美国的永久居留权(U.S. lawful Permanent Residence)，各种工作签证持有者从此不用再为签证到期或失去工作而惶恐不安。现在工作绿卡批准还得去有关部门面试，排期也越来越满了。
 
 获得绿卡的途径有工作移民(Employment Based - EB)，亲属移民(Family Based - FB)，政治避难(Political Asylum Based)等，甚至还有一种乐透绿卡(Diversity lottery Based)，专门将一定名额开放给其他国家的人以抽签的方式取得，有点类似于彩票抽奖，所以叫乐透绿卡。
 
