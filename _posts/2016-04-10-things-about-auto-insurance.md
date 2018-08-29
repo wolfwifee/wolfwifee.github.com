@@ -6,7 +6,7 @@ heading: 车险！车险！车险！
 publish: true
 published: true
 datePublished: 2016-04-18T00:00:00.000Z
-date: 2017-09-11
+date: 2018-08-28
 ---
 
 <span class="dropcap">重</span>要的事情说三遍。在美帝生活离不开车，而开车就不能没有车辆保险。因为裸奔的话，一旦被抓，驾照吊销，车辆注册吊销，好几百刀甚至上千刀的罚单，驾驶记录留污点，未来买车险保费大涨，还可能未来3年内你都需要车险公司为你提交SR-22给DMV。如果裸奔期间还造成了事故，那很可能要进去一段时间了。
@@ -128,6 +128,11 @@ Geico说是没有local agent也没所谓，geico 就 a phone call away. 但实�
 
 前段时间刚知道，向来画风清奇的Costco除了买车，也卖车险。
 准确说来Costco车险是由一家叫Ameriprise的保险公司提供的，据说驾驶记录很长而且没有不良记录的话，就会很便宜。如果你还是Costco的黑卡会员，还有多20元的折扣。
+
+<p style="margin-bottom:90px"></p>
+
+**<span style="color:#2e8b57">Farmers汽车保险</span>**
+最近刚换了汽车保险，选择了Farmers这家车险公司。准备观察一阵子，然后分享它的各种benefits。主要还是为了省钱省保费，另外保险经纪寄过来的文件也是很详细，需要仔细研究其中的车险条款。
 
 <p style="margin-bottom:90px"></p>
 **<span style="color:#2e8b57">车险省钱之道</span>**
