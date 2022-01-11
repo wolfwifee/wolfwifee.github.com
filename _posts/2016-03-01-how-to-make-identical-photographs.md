@@ -49,7 +49,12 @@ Use a plain white or off-white background.<br>
 
 然后呢，[美国旅游局官网上提供一个剪切头像的工具](https://travel.state.gov/content/passports/en/passports/photos/photo-composition-template.html){:target="_blank" style="color:#0089BC"}，**可以把照片上传剪切成符合要求的证件照头像**。裁剪工具的入口在页面的右下方哦。
 
-![证件照裁剪工具](/assets/img/passports-photo-cropper.png)
+<p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+ <img src="/assets/img/passports-photo-cropper.png" alt="证件照裁剪工具">
+  <meta itemprop="url" content="https://www.blogus123.com/assets/img/passports-photo-cropper.png">
+  <meta itemprop="width" content="240">
+  <meta itemprop="height" content="360">
+</p>
 
 <p style="margin-bottom:70px"></p>
 
