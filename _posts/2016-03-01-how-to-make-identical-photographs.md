@@ -53,7 +53,7 @@ Use a plain white or off-white background.<br>
 
 <p style="margin-bottom:70px"></p>
 
-所以，制作2毛钱证件照的步骤大概就是这样的↓↓↓
+所以，制作一块钱证件照的步骤大概就是这样的↓↓↓
 
 ① 在光线好的地方以白墙为背景，用手机拍一张照片。拍的时候可以用些水把头发梳平，并记得把头发撩到耳朵后面。开闪光灯的话，要把去红眼功能打开哦；另外，很多手机app都提供曝光功能，如果觉得自拍的照片不够亮，也可以用它们处理一下；<br>
 ② 把照片通过电脑上传到[美国旅游局官网的头像剪切工具](https://tsg.phototool.state.gov/photo){:target="_blank" style="color:#0089BC"}里，剪切出2" × 2"的头像图片；<br>
