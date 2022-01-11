@@ -12,7 +12,11 @@ date: 2022-01-10
 
 <span class="dropcap">年</span>少无知的时候，本着避税的目的放了些钱到Traditional IRA账户里，后来某一天发现，不能搞Backdoor Roth IRA了？！
 
-近两年物价房价飞涨，后知后觉的意识到应该多花点时间在理财和避税上，于是又后知后觉的花了点时间调研了一番，发现Backdoor Roth IRA这条路还是可以拯救一下，也就是传说中的Mega Backdoor Roth IRA。
+<p style="margin-bottom:70px"></p>
+
+
+然而，近两年物价房价飞涨，后知后觉的意识到应该多花点时间在理财和避税上，于是又后知后觉的花了点时间调研了一番，发现Backdoor Roth IRA这条路还是可以拯救一下，也就是传说中的Mega Backdoor Roth IRA。
+
 
 对普通人来说把钱放到退休账户里是个很不错的选择，比如在里面买卖个基金股票赚点小钱什么的不用被IRS国税局反复收割，如果是Roth IRA不仅收益部分不用交税，本金还可以随时取出来应急，实在没有理由不搞一下。
 
