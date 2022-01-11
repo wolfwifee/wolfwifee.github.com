@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 在美国怎么照证件照？去哪里照证件照？什么是证件照轻轻松松搞定Passport Photo
-description: "在美国，证件照要求大致为：2 x 2寸(inches) 的白底彩色照片，未被折叠或粘贴过，打印在表面光滑(glossy)的相纸上，正面面对镜头，除去帽子、项链、耳环等不必要的饰物。Costco, Walmart, Safeway, Target, CVS, Walgreens等都有Photo Center，可以网上下单。USPS，UPS的部分机构也提供证件照服务。Passport photo的制作价格一般是$7.99到$12.99之间，但是如果自己稍微动下手，把证件照排列成4 x 6寸(inches)的照片，价格就只要几毛钱了。"
-heading: 2毛钱制作证件照
+description: "在美国，证件照要求大致为：2 x 2寸(inches) 的白底彩色照片，未被折叠或粘贴过，打印在表面光滑(glossy)的相纸上，正面面对镜头，除去帽子、项链、耳环等不必要的饰物。Costco, Walmart, Safeway, FedEx, CVS, Walgreens等都有Photo Center，可以网上下单。USPS，UPS的部分机构也提供证件照服务。Passport photo的制作价格一般是$7.99到$12.99之间，但是如果自己稍微动下手，把证件照排列成4 x 6寸(inches)的照片，价格就只要几毛钱了。"
+heading: 一块钱制作证件照
 publish: true
 published: true
 datePublished: 2016-03-01T00:00:00.000Z
-dateModified: 2016-04-08T00:00:00.000Z
-date: 2016-04-08
+dateModified: 2021-12-13T00:00:00.000Z
+date: 2021-12-13
 ---
 
 
@@ -16,9 +16,9 @@ date: 2016-04-08
 
 
 
-<span class="dropcap">首</span>先，你需要知道一件事情：Costco, Walmart, Safeway, Target, CVS, Walgreens等等等等都有Photo Center，提供廉价的照片冲洗服务。其中，4" x 6"的照片冲洗尤为廉价，定价一般为每张1毛8到3毛之间。只要在google里输入'photo center'关键字，就会得到一大堆搜索结果。把照片上传，指定相片的尺寸、打印材质等，选择寄到家里或者门店自取，最后付款就可以了。
+<span class="dropcap">首</span>先，你需要知道一件事情：Costco, Walmart, Safeway,FedEx, CVS, Walgreens等等等等都有Photo Center，提供廉价的照片冲洗服务。其中，4" x 6"的照片冲洗尤为廉价，定价一般低于每张$1。只要在google里输入'photo center'关键字，就会得到一大堆搜索结果。把照片上传，指定相片的尺寸、打印材质等，选择寄到家里或者门店自取，最后付款就可以了。
 
-网上下单选择门店自取一般也是免邮费的，但通常需要等待一周时间，如果不想等待，这些卖场的大部分门店还提供自助照片冲洗设备，把照片拷到u盘或者手机里带过去就可以了。
+网上下单选择门店自取一般也是免邮费的，但通常需要等待一周时间，如果不想等待，这些卖场的大部分门店还提供自助照片冲洗设备，把照片拷到u盘或者手机里带过去就可以了。我最近比较喜欢用的是FedEx的打印自助服务中心，各种设备一应俱全，自助操作省时省心，店内还贴心的提供照片剪切工具供免费使用。
 
 至于证件照，简单来说，要求为：2" x 2"的白底彩色照片，未被折叠或粘贴过，打印在表面光滑(glossy)的相纸上，正面面对镜头，脸在照片的中间，除去帽子、项链、耳环等不必要的饰物。
 
