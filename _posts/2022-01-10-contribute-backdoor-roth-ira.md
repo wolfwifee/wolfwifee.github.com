@@ -40,6 +40,10 @@ date: 2022-01-10
 
 要操做Backdoor Roth IRA，需要一个空的Traditional IRA账号。这是因为如果Traditional IRA里有钱，做Backdoor Roth IRA会有税务影响，会要多交税。所以第二步就是打电话给券商，让他们把Traditional IRA账号里的钱给你全部转到当前公司的401k里，因为两者都是Pre-tax的，这个操作是不会产生补税的问题，这样我们的Traditional IRA账号就顺利清空了。
 
+有一点需要注意，如果Traditional IRA账号里的钱有买了基金股票债卷等等产品的，需要先都卖掉，等钱到账了，才能执行转到401k里的操作。所以一定要先确认好当前公司的401k支持Reverse Rollover，否则那些已有的投资产品就白卖了。
+
+另外，转到401k里的这步操作可能要花一些时间，我个人的经历是打了1个多小时的电话，期间转了4个顾问最后完成的。
+
 <p style="margin-bottom:70px"></p>
 
 **<span style="color:#2e8b57">第三步：执行Backdoor Roth IRA的常规操作</span>**
