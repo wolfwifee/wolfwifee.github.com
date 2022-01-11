@@ -5,8 +5,8 @@ description: 因为对美国的大法官制度比较感兴趣，当初围观了T
 heading: 大法官卡瓦诺的任命之争
 publish: true
 published: true
-datePublished: 2022-12-27T00:00:00.000Z
-date: 2022-12-27
+datePublished: 2021-12-27T00:00:00.000Z
+date: 2021-12-27
 ---
 <span class="dropcap">果</span>然，2021年12月1日，在最高院开审密密西西比州（Mississippi）堕胎禁令的第一次聆讯庭上，大法官Kavanaugh是那个对州堕胎禁令倾向支持最为明显的人。他表达的观点大致是：宪法里没有说支持还是不支持堕胎，我们法院应该把这个决定权交还给人民。意思就是说应由各州自行立法决定是否禁止堕胎。
 呵，男人。
