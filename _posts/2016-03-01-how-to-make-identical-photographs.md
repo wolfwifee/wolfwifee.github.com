@@ -16,21 +16,18 @@ date: 2021-12-13
 
 
 
-<span class="dropcap">首</span>先，你需要知道一件事情：Costco, Walmart, Safeway,FedEx, CVS, Walgreens等等等等都有Photo Center，提供廉价的照片冲洗服务。其中，4" x 6"的照片冲洗尤为廉价，定价一般低于每张$1。只要在google里输入'photo center'关键字，就会得到一大堆搜索结果。把照片上传，指定相片的尺寸、打印材质等，选择寄到家里或者门店自取，最后付款就可以了。
+<span class="dropcap">首</span>先，Costco, Walmart, Safeway,FedEx, CVS, Walgreens等等等等都有Photo Center，提供廉价的照片冲洗服务。其中，4" x 6"的照片冲洗尤为廉价，定价一般低于每张$1。只要在google里输入'photo center'关键字，就会得到一大堆搜索结果。把照片上传，指定相片的尺寸、打印材质等，选择寄到家里或者门店自取，最后付款就可以了。
 
-网上下单选择门店自取一般也是免邮费的，但通常需要等待一周时间，如果不想等待，这些卖场的大部分门店还提供自助照片冲洗设备，把照片拷到u盘或者手机里带过去就可以了。我最近比较喜欢用的是FedEx的打印自助服务中心，各种设备一应俱全，自助操作省时省心，店内还贴心的提供照片剪切工具供免费使用。
+网上下单选择门店自取一般也是免邮费的，但通常需要等待一周时间，如果不想等待，这些卖场的大部分门店还提供自助照片冲洗设备，把照片拷到u盘或者手机里带过去就可以了。我最近比较喜欢用的是FedEx的打印自助服务中心，各种设备一应俱全，自助操作即时打印，店内还贴心的提供照片剪切工具供免费使用。
 
 至于证件照，简单来说，要求为：2" x 2"的白底彩色照片，未被折叠或粘贴过，打印在表面光滑(glossy)的相纸上，正面面对镜头，脸在照片的中间，除去帽子、项链、耳环等不必要的饰物。
 
-<blockquote>Your passport photo must be:<br>
-In color<br>
-Printed on matte or glossy photo quality paper<br>
-2 x 2 inches (51 x 51 mm) in size<br>
-Sized such that the head is between 1 inch and 1 3/8 inches (between 25 and 35 mm) from the bottom of the chin to the top of the head. View the Photo Composition Template for more size requirement details<br>
-Taken within the last 6 months to reflect your current appearance<br>
-Taken in front of a plain white or off-white background<br>
-Taken in full-face view directly facing the camera<br>
-Taken with a neutral facial expression (preferred) or a natural smile, and with both eyes open<br>
+<blockquote>Photo Basics:<br>
+Submit a color photo, taken in last 6 months<br>
+Use a clear image of your face. Do not use filters commonly used on social media.<br>
+Have someone else take your photo. No selfies.<br>
+Take off your eyeglasses for your photo.<br>
+Use a plain white or off-white background.<br>
 </blockquote>
 
 上面这引用的这一大段英文其实不用看，到[美国旅游局官网上对着照片范例感受感受](https://travel.state.gov/content/passports/en/passports/photos/photo-examples.html){:target="_blank" style="color:#0089BC"}就知道是怎么回事了。
