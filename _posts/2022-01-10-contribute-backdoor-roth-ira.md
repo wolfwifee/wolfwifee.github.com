@@ -2,7 +2,7 @@
 layout: post
 title: 不能做Backdoor Roth IRA了怎么办？怎么做Mega Backdoor Roth IRA？每个人都应该尽早关注理财和避税
 description: "把钱放到退休账户里是个很不错的选择，traditional ira, roth ira, 401k, after-tax 401k, roth 401k等等等等。traditional ira里有钱，不能够backdoor roth ira了怎么办？可以试试做mega backdoor roth ira"
-heading: 抢救一下Backdoor Roth IRA可还行
+heading: 抢救一下Backdoor Roth IRA
 publish: true
 published: true
 datePublished: 2022-01-10T00:00:00.000Z
