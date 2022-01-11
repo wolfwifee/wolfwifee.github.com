@@ -36,7 +36,7 @@ Use a plain white or off-white background.<br>
 
 如果图省事，各家照片中心均提供Passport Photo服务，Walmart是7.99刀，其他几家会稍贵一点，总体而言价格从是7.99刀到12.99刀不等，**具体价格和和网站链接我会列在文章的最下方**。
 
-但这里，我要先说的是**把2" x 2" 的证件照按照两行三列排一起就成了4" x 6"的照片了有没有？而4" x 6"照片的定价一般为每张1毛8到3毛钱之间，所以只要稍微动几下手，几毛钱就可以搞定证件照**。就是排成下面这个样子：
+但这里，我要先说的是**把2" x 2" 的证件照按照两行三列排一起就成了4" x 6"的照片了有没有？所以只要稍微动几下手，我们完全可以自行搞定证件照**。就是排成下面这个样子：
 
 <p itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
  <img src="/assets/img/photoplacement.png" alt="证件照排列">
@@ -55,8 +55,8 @@ Use a plain white or off-white background.<br>
 
 所以，制作2毛钱证件照的步骤大概就是这样的↓↓↓
 
-① 在光线好的地方以白墙为背景，用手机自拍一张照片。拍的时候可以用些水把头发梳平，并记得把头发撩到耳朵后面。开闪光灯的话，要把去红眼功能打开哦；另外，很多手机app都提供曝光功能，如果觉得自拍的照片不够亮，也可以用它们处理一下；<br>
-② 把照片通过电脑上传到[美国旅游局官网的头像剪切工具](https://travel.state.gov/content/passports/en/passports/photos/photo-composition-template.html){:target="_blank" style="color:#0089BC"}里，剪切出2" × 2"的头像图片；<br>
+① 在光线好的地方以白墙为背景，用手机拍一张照片。拍的时候可以用些水把头发梳平，并记得把头发撩到耳朵后面。开闪光灯的话，要把去红眼功能打开哦；另外，很多手机app都提供曝光功能，如果觉得自拍的照片不够亮，也可以用它们处理一下；<br>
+② 把照片通过电脑上传到[美国旅游局官网的头像剪切工具](https://tsg.phototool.state.gov/photo){:target="_blank" style="color:#0089BC"}里，剪切出2" × 2"的头像图片；<br>
 ③ 打开word，或者ppt，或者任意一个能把图片拼接成两排三列的图片工具，总之就是用任何手段把头像拼接合并成一张4"x6"的图片；<br>
 ④ 通过任意一家照片中心打印出这张4"x6"的照片，记住要选用光滑(glossy)的相纸；<br>
 ⑤ 用尺子和刀等工具，自行切出来就可以了。有6张照片，总能剪出2张合格的嘛。不放心的同学可以多花2毛钱，这样就有12张证件照来供你剪裁剪了。
@@ -70,7 +70,7 @@ Use a plain white or off-white background.<br>
 | Walmart       | $7.44               | $0.09              | [点这里](https://photos.walmart.com/walmart/storepage/storePageId=Prints){:target="_blank" style="color:#0089BC"} |
 | CVS           | $12.99              | $0.29              | [点这里](http://www.cvs.com/photo/){:target="_blank" style="color:#0089BC"} |
 | Walgreens     | $12.99               | $0.29              | [点这里](http://photo.walgreens.com/walgreens/pdpprints/prdtype=/isfrom=_walgreens_reprintscreateflow?tab=photo_printsLHN-PrintsandEnlargements){:target="_blank" style="color:#0089BC"} |
-| Target        | $9.99                | $0.19              | [点这里](http://www.targetphoto.com/prints.html){:target="_blank" style="color:#0089BC"} |
+| FedEX         | $9.99                | $1.25              | [点这里](https://www.fedex.com/en-us/printing/digital-photo-printing.html){:target="_blank" style="color:#0089BC"} |
 | Costco        | $5.34（是给4张哦）| $0.17            | [点这里](http://www.costcophotocenter.com/Home){:target="_blank" style="color:#0089BC"} |
 | USPS          | $15                | 无此服务           | 无线上服务 |
 | UPS           | $11.99             | 无此服务           | 无线上服务 |
