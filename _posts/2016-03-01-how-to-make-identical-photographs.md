@@ -70,7 +70,7 @@ Use a plain white or off-white background.<br>
 | Walmart       | $7.44               | $0.09              | [点这里](https://photos.walmart.com/walmart/storepage/storePageId=Prints){:target="_blank" style="color:#0089BC"} |
 | CVS           | $12.99              | $0.29              | [点这里](http://www.cvs.com/photo/){:target="_blank" style="color:#0089BC"} |
 | Walgreens     | $12.99               | $0.29              | [点这里](http://photo.walgreens.com/walgreens/pdpprints/prdtype=/isfrom=_walgreens_reprintscreateflow?tab=photo_printsLHN-PrintsandEnlargements){:target="_blank" style="color:#0089BC"} |
-| FedEX         | $9.99                | $1.25              | [点这里](https://www.fedex.com/en-us/printing/digital-photo-printing.html){:target="_blank" style="color:#0089BC"} |
+| FedEX         | $9.99                | $1.25              | [点这里](https://www.fedex.com/en-us/printing/passport-photo.html){:target="_blank" style="color:#0089BC"} |
 | Costco        | $5.34（是给4张哦）| $0.17            | [点这里](http://www.costcophotocenter.com/Home){:target="_blank" style="color:#0089BC"} |
 | USPS          | $15                | 无此服务           | 无线上服务 |
 | UPS           | $11.99             | 无此服务           | 无线上服务 |
